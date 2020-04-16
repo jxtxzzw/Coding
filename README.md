@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 348 题，目前已整理代码 268 题，其中 C/C++ 162 题、Java 105 题、Python 0 题、JavaScript 0 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 349 题，目前已整理代码 269 题，其中 C/C++ 162 题、Java 106 题、Python 0 题、JavaScript 0 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -271,6 +271,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 315              | 计算右侧小于当前元素的个数                     | 树状数组            | 离散化                                        | cpp      |
 | LeetCode   | 319              | Bulb Switcher                                  |                     |                                               |          |
 | LeetCode   | 516              | 最长回文子序列                                 |                     | 动态规划                                      | java     |
+| LeetCode   | 678              | Valid Parenthesis String                      |                     | 动态规划,贪心                                  | java      |
 | LeetCode   | 717              | 1-bit and 2-bit Characters                     |                     |                                               |          |
 | LeetCode   | 739              | 每日温度                                       | 栈                  |                                               | java     |
 | LeetCode   | 844              | 比较含退格的字符串                             | 栈                  | 双指针                                        | c        |
