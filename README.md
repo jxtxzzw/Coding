@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 350 题，目前已整理代码 270 题，其中 C/C++ 162 题、Java 107 题、Python 0 题、JavaScript 0 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 351 题，目前已整理代码 271 题，其中 C/C++ 162 题、Java 108 题、Python 0 题、JavaScript 0 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -255,6 +255,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 24               | 两两交换链表中的节点                           | 链表                |                                               | java     |
 | LeetCode   | 25               | K 个一组翻转链表                               | 链表                |                                               | java     |
 | LeetCode   | 62               | 不同路径                                       |                     | 动态规划                                      | java     |
+| LeetCode   | 64               | Minimum Path                                  |                     | 动态规划                                      | java     |
 | LeetCode   | 70               | 爬楼梯                                         |                     | 动态规划                                      | java     |
 | LeetCode   | 74               | Search a 2D Matrix                             |                     | 分治                                          |          |
 | LeetCode   | 155              | 最小栈                                         | 栈                  |                                               | java     |
