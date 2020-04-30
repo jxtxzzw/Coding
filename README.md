@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 351 题，目前已整理代码 271 题，其中 C/C++ 162 题、Java 108 题、Python 0 题、JavaScript 0 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 352 题，目前已整理代码 272 题，其中 C/C++ 162 题、Java 109 题、Python 0 题、JavaScript 0 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -286,6 +286,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 989              | Add to Array-Form of Integer                   |                     |                                               |          |
 | LeetCode   | 991              | Broken Calculator                              |                     | 贪心                                          |          |
 | LeetCode   | 1046             | Last Stone Weight                              | 优先级队列          |                                               | java     |
+| LeetCode   | Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree | Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree | | | java  |
 | POJ        | 1182             | 食物链                                         | 并查集              |                                               |          |
 | POJ        | 1804             | Brainman                                       |                     | 归并排序                                      | java     |
 | POJ        | 1852             | Ants                                           |                     |                                               | cpp      |
