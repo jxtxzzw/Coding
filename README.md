@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 352 题，目前已整理代码 272 题，其中 C/C++ 162 题、Java 109 题、Python 0 题、JavaScript 0 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 353 题，目前已整理代码 273 题，其中 C/C++ 162 题、Java 110 题、Python 0 题、JavaScript 0 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -267,6 +267,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 212              | 单词搜索 II                                    | 前缀树              | 深度优先搜索                                  | java     |
 | LeetCode   | 230              | 二叉搜索树中第k小的元素                        | 二叉搜索树          | 递归                                          | java     |
 | LeetCode   | 242              | 有效的字母异位词                               |                     | 哈希                                          | java     |
+| LeetCode   | 278              | First Bad Version                             |                     | 二分查找                                       | java     |
 | LeetCode   | 287              | Find the Duplicate Number                      | 双指针              |                                               |          |
 | LeetCode   | 295              | 数据流的中位数                                 | 堆                  |                                               | java     |
 | LeetCode   | 300              | 最长上升子序列                                 |                     | 动态规划,贪心,二分查找                        | java     |
