@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 353 题，目前已整理代码 273 题，其中 C/C++ 162 题、Java 110 题、Python 0 题、JavaScript 0 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 354 题，目前已整理代码 274 题，其中 C/C++ 163 题、Java 110 题、Python 0 题、JavaScript 0 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -251,6 +251,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 9                | Palindrome Number                              |                     |                                               |          |
 | LeetCode   | 11               | Container With Most Water                      | 双指针              | 暴力                                          |          |
 | LeetCode   | 20               | 有效的括号                                     | 栈                  |                                               | java     |
+| LeetCode   | 21               | Merge Two Sorted Lists                         |  链表               | 归并排序                                      | c     |
 | LeetCode   | 22               | Generate Parentheses                           |                     | 动态规划                                      | java     |
 | LeetCode   | 24               | 两两交换链表中的节点                           | 链表                |                                               | java     |
 | LeetCode   | 25               | K 个一组翻转链表                               | 链表                |                                               | java     |
