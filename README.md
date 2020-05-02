@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 354 题，目前已整理代码 274 题，其中 C/C++ 163 题、Java 110 题、Python 0 题、JavaScript 0 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 355 题，目前已整理代码 276 题，其中 C/C++ 163 题、Java 111 题、Python 0 题、JavaScript 1 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -245,7 +245,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | HDU        | 6154             | CaoHaha's staff                                |                     |                                               | java     |
 | HDU        | 6170             | Two strings                                    |                     | 动态规划,正则表达式                           | java     |
 | LeetCode   | 1                | Two Sum                                        | 表                  | 哈希                                          |          |
-| LeetCode   | 3                | Longest Substring Without Repeating Characters | 滑动窗口            |                                               |          |
+| LeetCode   | 3                | Longest Substring Without Repeating Characters | 滑动窗口            |                                               | java     |
 | LeetCode   | 5                | Longest Palindromic Substring                  |                     | 动态规划,最长回文子串,中心扩展                | java     |
 | LeetCode   | 7                | Reverse Integer                                |                     |                                               |          |
 | LeetCode   | 9                | Palindrome Number                              |                     |                                               |          |
@@ -278,6 +278,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 678              | Valid Parenthesis String                      |                     | 动态规划,贪心                                  | java      |
 | LeetCode   | 717              | 1-bit and 2-bit Characters                     |                     |                                               |          |
 | LeetCode   | 739              | 每日温度                                       | 栈                  |                                               | java     |
+| LeetCode   | 771              | Jewels and Stones                             |                   |                                               | javascript     |
 | LeetCode   | 844              | 比较含退格的字符串                             | 栈                  | 双指针                                        | c        |
 | LeetCode   | 860              | Lemonade Change                                |                     | 贪心                                          |          |
 | LeetCode   | 881              | 救生艇                                         | 双指针              | 贪心                                          |          |
