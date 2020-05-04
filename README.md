@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 357 题，目前已整理代码 278 题，其中 C/C++ 163 题、Java 111 题、Python 0 题、JavaScript 3 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 359 题，目前已整理代码 280 题，其中 C/C++ 163 题、Java 113 题、Python 0 题、JavaScript 3 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -255,6 +255,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 22               | Generate Parentheses                           |                     | 动态规划                                      | java     |
 | LeetCode   | 24               | 两两交换链表中的节点                           | 链表                |                                               | java     |
 | LeetCode   | 25               | K 个一组翻转链表                               | 链表                |                                               | java     |
+| LeetCode   | 45               | 跳跃游戏 II                                    |                     | 贪心                                          | java     |
 | LeetCode   | 53               | 最大子序和                                     |                     | 动态规划                                       | javascript |
 | LeetCode   | 62               | 不同路径                                       |                     | 动态规划                                      | java     |
 | LeetCode   | 64               | Minimum Path                                  |                     | 动态规划                                      | java     |
@@ -276,6 +277,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 315              | 计算右侧小于当前元素的个数                     | 树状数组            | 离散化                                        | cpp      |
 | LeetCode   | 319              | Bulb Switcher                                  |                     |                                               |          |
 | LeetCode   | 383              | Ransom Note                                   | 哈希表               |                                               | javascript  |
+| LeetCode   | 476              | Number Complement                             |                     |                                              | java     |
 | LeetCode   | 516              | 最长回文子序列                                 |                     | 动态规划                                      | java     |
 | LeetCode   | 678              | Valid Parenthesis String                      |                     | 动态规划,贪心                                  | java      |
 | LeetCode   | 717              | 1-bit and 2-bit Characters                     |                     |                                               |          |
