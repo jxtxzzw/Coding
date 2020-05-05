@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 359 题，目前已整理代码 280 题，其中 C/C++ 163 题、Java 113 题、Python 0 题、JavaScript 3 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 361 题，目前已整理代码 282 题，其中 C/C++ 163 题、Java 115 题、Python 0 题、JavaScript 3 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -261,6 +261,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 64               | Minimum Path                                  |                     | 动态规划                                      | java     |
 | LeetCode   | 70               | 爬楼梯                                         |                     | 动态规划                                      | java     |
 | LeetCode   | 74               | Search a 2D Matrix                             |                     | 分治                                          |          |
+| LeetCode   | 98               | 验证二叉搜索树                                  | 二叉搜索树           |                                               |  java   |
 | LeetCode   | 155              | 最小栈                                         | 栈                  |                                               | java     |
 | LeetCode   | 175              | 组合两个表                                     | 数据库              | 外连接                                        | sql      |
 | LeetCode   | 179              | Largest Number                                 |                     | 贪心                                          |          |
@@ -277,6 +278,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 315              | 计算右侧小于当前元素的个数                     | 树状数组            | 离散化                                        | cpp      |
 | LeetCode   | 319              | Bulb Switcher                                  |                     |                                               |          |
 | LeetCode   | 383              | Ransom Note                                   | 哈希表               |                                               | javascript  |
+| LeetCode   | 387              | First Unique Character in a String            |                     |                                               | java    |
 | LeetCode   | 476              | Number Complement                             |                     |                                              | java     |
 | LeetCode   | 516              | 最长回文子序列                                 |                     | 动态规划                                      | java     |
 | LeetCode   | 678              | Valid Parenthesis String                      |                     | 动态规划,贪心                                  | java      |
