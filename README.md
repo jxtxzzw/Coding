@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 361 题，目前已整理代码 282 题，其中 C/C++ 163 题、Java 115 题、Python 0 题、JavaScript 3 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 362 题，目前已整理代码 284 题，其中 C/C++ 163 题、Java 117 题、Python 0 题、JavaScript 3 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -263,6 +263,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 74               | Search a 2D Matrix                             |                     | 分治                                          |          |
 | LeetCode   | 98               | 验证二叉搜索树                                  | 二叉搜索树           |                                               |  java   |
 | LeetCode   | 155              | 最小栈                                         | 栈                  |                                               | java     |
+| LeetCode   | 169              | Majority Element                              |                   | 摩尔投票法                                       | java      |
 | LeetCode   | 175              | 组合两个表                                     | 数据库              | 外连接                                        | sql      |
 | LeetCode   | 179              | Largest Number                                 |                     | 贪心                                          |          |
 | LeetCode   | 198              | 打家劫舍                                       |                     | 动态规划                                      | cpp      |
@@ -290,7 +291,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 881              | 救生艇                                         | 双指针              | 贪心                                          |          |
 | LeetCode   | 970              | Powerful Integers                              |                     |                                               |          |
 | LeetCode   | 974              | Subarray Sums Divisible by K                   |                     | 前缀和,差分                                   |          |
-| LeetCode   | 983              | Minimum Cost For Tickets                       |                     | 动态规划                                      |          |
+| LeetCode   | 983              | Minimum Cost For Tickets                       |                     | 动态规划                                      | java |
 | LeetCode   | 984              | String Without AAA or BBB                      |                     | 贪心                                          |          |
 | LeetCode   | 989              | Add to Array-Form of Integer                   |                     |                                               |          |
 | LeetCode   | 991              | Broken Calculator                              |                     | 贪心                                          |          |
