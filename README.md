@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 365 题，目前已整理代码 287 题，其中 C/C++ 163 题、Java 119 题、Python 0 题、JavaScript 4 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 367 题，目前已整理代码 289 题，其中 C/C++ 163 题、Java 121 题、Python 0 题、JavaScript 4 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -271,6 +271,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 208              | 实现Trie（前缀树）                             | 前缀树              |                                               | java     |
 | LeetCode   | 212              | 单词搜索 II                                    | 前缀树              | 深度优先搜索                                  | java     |
 | LeetCode   | 230              | 二叉搜索树中第k小的元素                        | 二叉搜索树          | 递归                                          | java     |
+| LeetCode   | 236              | 二叉树的最近公共祖先                           | 二叉树              |                                               | java     |
 | LeetCode   | 242              | 有效的字母异位词                               |                     | 哈希                                          | java     |
 | LeetCode   | 278              | First Bad Version                             |                     | 二分查找                                       | java     |
 | LeetCode   | 287              | Find the Duplicate Number                      | 双指针              |                                               |          |
@@ -297,6 +298,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 989              | Add to Array-Form of Integer                   |                     |                                               |          |
 | LeetCode   | 991              | Broken Calculator                              |                     | 贪心                                          |          |
 | LeetCode   | 993              | Cousins in Binary Tree                         |                     |                                              | java     |
+| LeetCode   | 997              | Find the Town Judge                            | 图的入度和出度       |                                              | java     |
 | LeetCode   | 1046             | Last Stone Weight                              | 优先级队列          |                                               | java     |
 | LeetCode   | 1232             | Check If It Is a Straight Line                 |                    |                                               | java     |
 | LeetCode   | Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree | Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree | | | java  |
