@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 367 题，目前已整理代码 289 题，其中 C/C++ 163 题、Java 121 题、Python 0 题、JavaScript 4 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 369 题，目前已整理代码 291 题，其中 C/C++ 163 题、Java 123 题、Python 0 题、JavaScript 4 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -256,6 +256,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 24               | 两两交换链表中的节点                           | 链表                |                                               | java     |
 | LeetCode   | 25               | K 个一组翻转链表                               | 链表                |                                               | java     |
 | LeetCode   | 45               | 跳跃游戏 II                                    |                     | 贪心                                          | java     |
+| LeetCode   | 50               | Pow(x, n)                                     |                     | 分治,快速幂                                     | java |
 | LeetCode   | 53               | 最大子序和                                     |                     | 动态规划                                       | javascript |
 | LeetCode   | 62               | 不同路径                                       |                     | 动态规划                                      | java     |
 | LeetCode   | 64               | Minimum Path                                  |                     | 动态规划                                      | java     |
@@ -286,6 +287,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 516              | 最长回文子序列                                 |                     | 动态规划                                      | java     |
 | LeetCode   | 678              | Valid Parenthesis String                      |                     | 动态规划,贪心                                  | java      |
 | LeetCode   | 717              | 1-bit and 2-bit Characters                     |                     |                                               |          |
+| LeetCode   | 733              | Flood Fill                                     |                    |   深度优先搜索                                 | java     |
 | LeetCode   | 739              | 每日温度                                       | 栈                  |                                               | java     |
 | LeetCode   | 771              | Jewels and Stones                             |                   |                                               | javascript     |
 | LeetCode   | 844              | 比较含退格的字符串                             | 栈                  | 双指针                                        | c        |
