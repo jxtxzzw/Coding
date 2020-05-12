@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 369 题，目前已整理代码 291 题，其中 C/C++ 163 题、Java 123 题、Python 0 题、JavaScript 4 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 370 题，目前已整理代码 292 题，其中 C/C++ 163 题、Java 124 题、Python 0 题、JavaScript 4 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -285,6 +285,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 387              | First Unique Character in a String            |                     |                                               | java    |
 | LeetCode   | 476              | Number Complement                             |                     |                                              | java     |
 | LeetCode   | 516              | 最长回文子序列                                 |                     | 动态规划                                      | java     |
+| LeetCode   | 540              | Single Element in a Sorted Array              |                     | 二分查找                                      | java     |
 | LeetCode   | 678              | Valid Parenthesis String                      |                     | 动态规划,贪心                                  | java      |
 | LeetCode   | 717              | 1-bit and 2-bit Characters                     |                     |                                               |          |
 | LeetCode   | 733              | Flood Fill                                     |                    |   深度优先搜索                                 | java     |
