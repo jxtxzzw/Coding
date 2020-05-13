@@ -283,6 +283,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 367              | Valid Perfect Square                          |                     |                                               | javascript  |
 | LeetCode   | 383              | Ransom Note                                   | 哈希表               |                                               | javascript  |
 | LeetCode   | 387              | First Unique Character in a String            |                     |                                               | java    |
+| LeetCode   | 402              | Remove K Digits                              |  单调栈               |  贪心                                         | java     |
 | LeetCode   | 476              | Number Complement                             |                     |                                              | java     |
 | LeetCode   | 516              | 最长回文子序列                                 |                     | 动态规划                                      | java     |
 | LeetCode   | 540              | Single Element in a Sorted Array              |                     | 二分查找                                      | java     |
