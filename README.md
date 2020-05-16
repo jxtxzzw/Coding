@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 372 题，目前已整理代码 294 题，其中 C/C++ 164 题、Java 125 题、Python 0 题、JavaScript 4 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 373 题，目前已整理代码 295 题，其中 C/C++ 164 题、Java 126 题、Python 0 题、JavaScript 4 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -281,6 +281,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 300              | 最长上升子序列                                 |                     | 动态规划,贪心,二分查找                        | java     |
 | LeetCode   | 315              | 计算右侧小于当前元素的个数                     | 树状数组            | 离散化                                        | cpp      |
 | LeetCode   | 319              | Bulb Switcher                                  |                     |                                               |          |
+| LeetCode   | 328              | Odd Even Linked List                          |                     |                                               | java       |
 | LeetCode   | 367              | Valid Perfect Square                          |                     |                                               | javascript  |
 | LeetCode   | 383              | Ransom Note                                   | 哈希表               |                                               | javascript  |
 | LeetCode   | 387              | First Unique Character in a String            |                     |                                               | java    |
