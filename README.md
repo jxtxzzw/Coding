@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 375 题，目前已整理代码 297 题，其中 C/C++ 164 题、Java 128 题、Python 0 题、JavaScript 4 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 376 题，目前已整理代码 298 题，其中 C/C++ 164 题、Java 129 题、Python 0 题、JavaScript 4 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -299,6 +299,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 844              | 比较含退格的字符串                             | 栈                  | 双指针                                        | c        |
 | LeetCode   | 860              | Lemonade Change                                |                     | 贪心                                          |          |
 | LeetCode   | 881              | 救生艇                                         | 双指针              | 贪心                                          |          |
+| LeetCode   | 901              | Online Stock Span                             |  栈                |                                                | java     |
 | LeetCode   | 918              | Maximum Sum Circular Subarray                 |                     | 前缀和,双端队列,动态规划                        | java     |
 | LeetCode   | 970              | Powerful Integers                              |                     |                                               |          |
 | LeetCode   | 974              | Subarray Sums Divisible by K                   |                     | 前缀和,差分                                   |          |
