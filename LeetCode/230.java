@@ -12,3 +12,28 @@ private void go(TreeNode root) {
         go(root.right);
     }
 }
+
+
+/*
+
+class Solution {
+    private Stack<TreeNode> stack = new Stack<>();
+
+    public int kthSmallest(TreeNode root, int k) {
+        while (true) {
+            while (root != null) {
+                stack.push(root);
+                root = root.left;
+            }
+            k--;
+            root = stack.pop();
+            if (k == 0) {
+                return root.val;
+            } else {
+                root = root.right;
+            }
+        }
+    }
+}
+
+*/
