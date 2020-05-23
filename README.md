@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 378 题，目前已整理代码 300 题，其中 C/C++ 164 题、Java 131 题、Python 0 题、JavaScript 4 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 379 题，目前已整理代码 301 题，其中 C/C++ 164 题、Java 132 题、Python 0 题、JavaScript 4 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -306,6 +306,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 974              | Subarray Sums Divisible by K                   |                     | 前缀和,差分                                   |          |
 | LeetCode   | 983              | Minimum Cost For Tickets                       |                     | 动态规划                                      | java |
 | LeetCode   | 984              | String Without AAA or BBB                      |                     | 贪心                                          |          |
+| LeetCode   | 986b             | Interval List Intersections                    |                     |                                               | java     |
 | LeetCode   | 989              | Add to Array-Form of Integer                   |                     |                                               |          |
 | LeetCode   | 991              | Broken Calculator                              |                     | 贪心                                          |          |
 | LeetCode   | 993              | Cousins in Binary Tree                         |                     |                                              | java     |
