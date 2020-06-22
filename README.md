@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 380 题，目前已整理代码 302 题，其中 C/C++ 164 题、Java 133 题、Python 0 题、JavaScript 4 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 381 题，目前已整理代码 303 题，其中 C/C++ 164 题、Java 134 题、Python 0 题、JavaScript 4 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -264,6 +264,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 74               | Search a 2D Matrix                             |                     | 分治                                          |          |
 | LeetCode   | 98               | 验证二叉搜索树                                  | 二叉搜索树           |                                               |  java   |
 | LeetCode   | 136              | 只出现一次的数字                                |                     |                                               | c     |
+| LeetCode   | 137              | Single Number II                               |                     |  位运算                                       | java     |
 | LeetCode   | 155              | 最小栈                                         | 栈                  |                                               | java     |
 | LeetCode   | 169              | Majority Element                              |                   | 摩尔投票法                                       | java      |
 | LeetCode   | 175              | 组合两个表                                     | 数据库              | 外连接                                        | sql      |
