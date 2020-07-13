@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 381 题，目前已整理代码 303 题，其中 C/C++ 164 题、Java 134 题、Python 0 题、JavaScript 4 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 382 题，目前已整理代码 304 题，其中 C/C++ 165 题、Java 134 题、Python 0 题、JavaScript 4 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -404,5 +404,6 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | 计蒜客     | 重复的密文       | 重复的密文                                     |                     | KMP                                           |          |
 | 计蒜客     | 最近点对         | 最近点对                                       |                     | 分治                                          |          |
 | 计蒜客     | 最甜的苹果       | 最甜的苹果                                     | 线段树              |                                               | cpp      |
+| 计蒜客     | 威虎山上的分配    | 威虎山上的分配                                 |                    | 拓扑排序                                       | cpp      |
 | 洛谷       | 1540             | 机器翻译                                       | 队列                |                                               |          |
 | 洛谷       | 1638             | 逛画展                                         | 队列,滑动窗口       | 贪心                                          |          |
