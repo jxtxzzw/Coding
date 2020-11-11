@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 383 题，目前已整理代码 307 题，其中 C/C++ 166 题、Java 136 题、Python 0 题、JavaScript 4 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 384 题，目前已整理代码 308 题，其中 C/C++ 166 题、Java 137 题、Python 0 题、JavaScript 4 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -295,6 +295,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 516              | 最长回文子序列                                 |                     | 动态规划                                      | java     |
 | LeetCode   | 540              | Single Element in a Sorted Array              |                     | 二分查找                                      | java     |
 | LeetCode   | 567              | Permutation in String                         |                     | 滑动窗口                                      | java     |
+| LeetCode   | 593              | Valid Square                                  |                     |                                                | java     |
 | LeetCode   | 678              | Valid Parenthesis String                      |                     | 动态规划,贪心                                  | java      |
 | LeetCode   | 717              | 1-bit and 2-bit Characters                     |                     |                                               |          |
 | LeetCode   | 733              | Flood Fill                                     |                    |   深度优先搜索                                 | java     |
