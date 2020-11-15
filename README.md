@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 386 题，目前已整理代码 310 题，其中 C/C++ 166 题、Java 139 题、Python 0 题、JavaScript 4 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 387 题，目前已整理代码 311 题，其中 C/C++ 166 题、Java 140 题、Python 0 题、JavaScript 4 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -293,6 +293,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 402              | Remove K Digits                              |  单调栈               |  贪心                                         | java     |
 | LeetCode   | 438              | Find All Anagrams in a String                 |                    |  滑动窗口                                         | java     |
 | LeetCode   | 451              | Sort Characters By Frequency                  |                     |                                              | java     |
+| LeetCode   | 458              | Poor Pigs                                     |                     | 进制转换                                      | java     |
 | LeetCode   | 476              | Number Complement                             | 哈希表               |                                              | java     |
 | LeetCode   | 516              | 最长回文子序列                                 |                     | 动态规划                                      | java     |
 | LeetCode   | 540              | Single Element in a Sorted Array              |                     | 二分查找                                      | java     |
