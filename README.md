@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 387 题，目前已整理代码 311 题，其中 C/C++ 166 题、Java 140 题、Python 0 题、JavaScript 4 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 388 题，目前已整理代码 312 题，其中 C/C++ 166 题、Java 141 题、Python 0 题、JavaScript 4 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -309,6 +309,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 881              | 救生艇                                         | 双指针              | 贪心                                          |          |
 | LeetCode   | 901              | Online Stock Span                             |  栈                |                                                | java     |
 | LeetCode   | 918              | Maximum Sum Circular Subarray                 |                     | 前缀和,双端队列,动态规划                        | java     |
+| LeetCode   | 938              | Range Sum of BST                               |                     |                                               | java     |
 | LeetCode   | 970              | Powerful Integers                              |                     |                                               |          |
 | LeetCode   | 974              | Subarray Sums Divisible by K                   |                     | 前缀和,差分                                   |          |
 | LeetCode   | 983              | Minimum Cost For Tickets                       |                     | 动态规划                                      | java |
