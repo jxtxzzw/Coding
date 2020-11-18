@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 390 题，目前已整理代码 314 题，其中 C/C++ 166 题、Java 143 题、Python 0 题、JavaScript 4 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 391 题，目前已整理代码 315 题，其中 C/C++ 166 题、Java 143 题、Python 0 题、JavaScript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -259,6 +259,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 47               | Permutations II                                |                   | 回溯                                          | java     |
 | LeetCode   | 50               | Pow(x, n)                                     |                     | 分治,快速幂                                     | java |
 | LeetCode   | 53               | 最大子序和                                     |                     | 动态规划                                       | javascript |
+| LeetCode   | 56               | Merge Intervals                               |                     |                                              | javascript |
 | LeetCode   | 62               | 不同路径                                       |                     | 动态规划                                      | java     |
 | LeetCode   | 64               | Minimum Path                                  |                     | 动态规划                                      | java     |
 | LeetCode   | 70               | 爬楼梯                                         |                     | 动态规划                                      | java     |
