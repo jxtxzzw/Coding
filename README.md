@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 395 题，目前已整理代码 319 题，其中 C/C++ 166 题、Java 147 题、Python 0 题、JavaScript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 396 题，目前已整理代码 320 题，其中 C/C++ 166 题、Java 148 题、Python 0 题、JavaScript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -308,6 +308,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 733              | Flood Fill                                     |                    |   深度优先搜索                                 | java     |
 | LeetCode   | 739              | 每日温度                                       | 栈                  |                                               | java     |
 | LeetCode   | 771              | Jewels and Stones                             |                   |                                               | javascript     |
+| LeetCode   | 804              | Unique Morse Code Words                       | 集合                  |                                             | java      |
 | LeetCode   | 844              | 比较含退格的字符串                             | 栈                  | 双指针                                        | c        |
 | LeetCode   | 845              | Longest Mountain in Array                      |                     | 双指针                                        | java     |
 | LeetCode   | 858              | Mirror Reflection                              |                     |                                               | java     |
