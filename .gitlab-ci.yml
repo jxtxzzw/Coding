@@ -15,4 +15,4 @@ before_script:
 update:
   stage: deploy
   script:
-    - ssh -i ~/.ssh/key.pem -rv ${USER}@${HOST_NAME} "cd ${CICD_DIR} && sh ${SCRIPT_FILENAME}.sh"
+    - ssh -i ~/.ssh/key.pem -v ${USER}@${HOST_NAME} "cd ${CICD_DIR} && sh ${SCRIPT_FILENAME}.sh"
