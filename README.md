@@ -282,6 +282,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 227              | Basic Calculator II                           | 栈                  |                                                | c       |
 | LeetCode   | 230              | 二叉搜索树中第k小的元素                        | 二叉搜索树          | 递归                                          | java     |
 | LeetCode   | 236              | 二叉树的最近公共祖先                           | 二叉树              |                                               | java     |
+| LeetCode   | 239              | Sliding Window Maximum                        |                    |  滑动窗口,双端队列                             | java     |
 | LeetCode   | 242              | 有效的字母异位词                               |                     | 哈希                                          | java     |
 | LeetCode   | 274              | H-Index                                       |                     |                                                | c      |
 | LeetCode   | 278              | First Bad Version                             |                     | 二分查找                                       | java     |
