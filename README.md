@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 401 题，目前已整理代码 325 题，其中 C/C++ 168 题、Java 150 题、Kotlin 1 题、Python 0 题、JavaScript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 402 题，目前已整理代码 326 题，其中 C/C++ 168 题、Java 151 题、Kotlin 1 题、Python 0 题、JavaScript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -338,6 +338,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 1232             | Check If It Is a Straight Line                 |                    |                                               | java     |
 | LeetCode   | 1277             | Count Square Submatrices with All Ones         |                     | 动态规划                                      | java     |
 | LeetCode   | 1286             | Iterator for Combination                       |                     |                                              | java     |
+| LeetCode   | 1306             | Jump Game III                                  |                     | 深度优先搜索,广度优先搜索                     | java     |
 | LeetCode   | Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree | Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree | | | java  |
 | POJ        | 1182             | 食物链                                         | 并查集              |                                               |          |
 | POJ        | 1804             | Brainman                                       |                     | 归并排序                                      | java     |
