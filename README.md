@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 403 题，目前已整理代码 327 题，其中 C/C++ 168 题、Java 152 题、Kotlin 1 题、Python 0 题、JavaScript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 404 题，目前已整理代码 328 题，其中 C/C++ 168 题、Java 153 题、Kotlin 1 题、Python 0 题、JavaScript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -267,6 +267,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 74               | Search a 2D Matrix                             |                     | 分治                                          |          |
 | LeetCode   | 81               | Search in Rotated Sorted Array II              |                     | 二分                                           | java     |
 | LeetCode   | 98               | 验证二叉搜索树                                  | 二叉搜索树           |                                               |  java   |
+| LeetCode   | 104              | Maximum Depth of Binary Tree                   |                     |                                               | java    |
 | LeetCode   | 116              | Populating Next Right Pointers in Each Node    |                     |                                               |  java   |
 | LeetCode   | 119              | Pascal's Triangle II                           |                     |                                               |  java   |
 | LeetCode   | 136              | 只出现一次的数字                                |                     |                                               | c     |
