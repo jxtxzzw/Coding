@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 404 题，目前已整理代码 328 题，其中 C/C++ 168 题、Java 153 题、Kotlin 1 题、Python 0 题、JavaScript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 405 题，目前已整理代码 329 题，其中 C/C++ 168 题、Java 154 题、Kotlin 1 题、Python 0 题、JavaScript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -296,6 +296,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 328              | Odd Even Linked List                          |                     |                                               | java       |
 | LeetCode   | 337              | House Robber III                              | 二叉树              | 递归,动态规划                                   | java       |
 | LeetCode   | 367              | Valid Perfect Square                          |                     |                                               | javascript  |
+| LeetCode   | 382              | Linked List Random Node                       |                     |                                               |             |
 | LeetCode   | 383              | Ransom Note                                   | 哈希表               |                                               | javascript  |
 | LeetCode   | 387              | First Unique Character in a String            |                     |                                               | java    |
 | LeetCode   | 394              | Decode String                                 |                     |                                               | java     |
