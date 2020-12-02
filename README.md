@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 405 题，目前已整理代码 329 题，其中 C/C++ 168 题、Java 154 题、Kotlin 1 题、Python 0 题、JavaScript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 405 题，目前已整理代码 329 题，其中 C/C++ 168 题、Java 154 题、kt 1 题、Python 0 题、js 5 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -259,8 +259,8 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 45               | 跳跃游戏 II                                    |                     | 贪心                                          | java     |
 | LeetCode   | 47               | Permutations II                                |                   | 回溯                                          | java     |
 | LeetCode   | 50               | Pow(x, n)                                     |                     | 分治,快速幂                                     | java |
-| LeetCode   | 53               | 最大子序和                                     |                     | 动态规划                                       | javascript |
-| LeetCode   | 56               | Merge Intervals                               |                     |                                              | javascript |
+| LeetCode   | 53               | 最大子序和                                     |                     | 动态规划                                       | js |
+| LeetCode   | 56               | Merge Intervals                               |                     |                                              | js |
 | LeetCode   | 62               | 不同路径                                       |                     | 动态规划                                      | java     |
 | LeetCode   | 64               | Minimum Path                                  |                     | 动态规划                                      | java     |
 | LeetCode   | 70               | 爬楼梯                                         |                     | 动态规划                                      | java     |
@@ -295,12 +295,12 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 319              | Bulb Switcher                                  |                     |                                               |          |
 | LeetCode   | 328              | Odd Even Linked List                          |                     |                                               | java       |
 | LeetCode   | 337              | House Robber III                              | 二叉树              | 递归,动态规划                                   | java       |
-| LeetCode   | 367              | Valid Perfect Square                          |                     |                                               | javascript  |
+| LeetCode   | 367              | Valid Perfect Square                          |                     |                                               | js  |
 | LeetCode   | 382              | Linked List Random Node                       |                     |                                               |             |
-| LeetCode   | 383              | Ransom Note                                   | 哈希表               |                                               | javascript  |
+| LeetCode   | 383              | Ransom Note                                   | 哈希表               |                                               | js  |
 | LeetCode   | 387              | First Unique Character in a String            |                     |                                               | java    |
 | LeetCode   | 394              | Decode String                                 |                     |                                               | java     |
-| LeetCode   | 395              | Longest Substring with At Least K Repeating Characters | 哈希表      |  递归                                         | kotlin    |
+| LeetCode   | 395              | Longest Substring with At Least K Repeating Characters | 哈希表      |  递归                                         | kt    |
 | LeetCode   | 402              | Remove K Digits                              |  单调栈               |  贪心                                         | java     |
 | LeetCode   | 416              | Partition Equal Subset Sum                    |                     | 动态规划                                       | java     |
 | LeetCode   | 438              | Find All Anagrams in a String                 |                    |  滑动窗口                                         | java     |
@@ -315,7 +315,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 717              | 1-bit and 2-bit Characters                     |                     |                                               |          |
 | LeetCode   | 733              | Flood Fill                                     |                    |   深度优先搜索                                 | java     |
 | LeetCode   | 739              | 每日温度                                       | 栈                  |                                               | java     |
-| LeetCode   | 771              | Jewels and Stones                             |                   |                                               | javascript     |
+| LeetCode   | 771              | Jewels and Stones                             |                   |                                               | js     |
 | LeetCode   | 804              | Unique Morse Code Words                       | 集合                  |                                             | java      |
 | LeetCode   | 844              | 比较含退格的字符串                             | 栈                  | 双指针                                        | c        |
 | LeetCode   | 845              | Longest Mountain in Array                      |                     | 双指针                                        | java     |
