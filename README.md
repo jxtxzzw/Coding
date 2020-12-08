@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 410 题，目前已整理代码 334 题，其中 C/C++ 168 题、Java 159 题、kt 1 题、Python 0 题、js 5 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 411 题，目前已整理代码 335 题，其中 C/C++ 168 题、Java 160 题、kt 1 题、Python 0 题、js 5 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -340,6 +340,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 993              | Cousins in Binary Tree                         |                     |                                              | java     |
 | LeetCode   | 997              | Find the Town Judge                            | 图的入度和出度       |                                              | java     |
 | LeetCode   | 1008             | Construct Binary Search Tree from Preorder Traversal |              |                                               | java     |
+| LeetCode   | 1010             | Pairs of Songs With Total Durations Divisible by 60  |              |                                                | java    |
 | LeetCode   | 1015             | Smallest Integer Divisible by K                 |                    |                                                | c     |
 | LeetCode   | 1046             | Last Stone Weight                              | 优先级队列          |                                               | java     |
 | LeetCode   | 1232             | Check If It Is a Straight Line                 |                    |                                               | java     |
