@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 412 题，目前已整理代码 336 题，其中 C/C++ 168 题、Java 161 题、kt 1 题、Python 0 题、js 5 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 413 题，目前已整理代码 337 题，其中 C/C++ 168 题、Java 162 题、kt 1 题、Python 0 题、js 5 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -331,6 +331,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 902              | Numbers At Most N Given Digit Set             |                     |  数位DP,数学,进制转换,贪心                      | java     |
 | LeetCode   | 918              | Maximum Sum Circular Subarray                 |                     | 前缀和,双端队列,动态规划                        | java     |
 | LeetCode   | 938              | Range Sum of BST                               |                     |                                               | java     |
+| LeetCode   | 941              | Valid Mountain Array                           |                     |                                               | java     |
 | LeetCode   | 970              | Powerful Integers                              |                     |                                               |          |
 | LeetCode   | 974              | Subarray Sums Divisible by K                   |                     | 前缀和,差分                                   |          |
 | LeetCode   | 983              | Minimum Cost For Tickets                       |                     | 动态规划                                      | java |
