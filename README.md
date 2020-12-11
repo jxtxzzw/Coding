@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 413 题，目前已整理代码 337 题，其中 C/C++ 168 题、Java 162 题、kt 1 题、Python 0 题、js 5 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 414 题，目前已整理代码 338 题，其中 C/C++ 168 题、Java 163 题、kt 1 题、Python 0 题、js 5 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -266,6 +266,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 64               | Minimum Path                                  |                     | 动态规划                                      | java     |
 | LeetCode   | 70               | 爬楼梯                                         |                     | 动态规划                                      | java     |
 | LeetCode   | 74               | Search a 2D Matrix                             |                     | 分治                                          |          |
+| LeetCode   | 80               | Remove Duplicates from Sorted Array II        |                     |                                                  | java   |
 | LeetCode   | 81               | Search in Rotated Sorted Array II              |                     | 二分                                           | java     |
 | LeetCode   | 98               | 验证二叉搜索树                                  | 二叉搜索树           |                                               |  java   |
 | LeetCode   | 104              | Maximum Depth of Binary Tree                   |                     |                                               | java    |
