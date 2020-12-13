@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 414 题，目前已整理代码 338 题，其中 C/C++ 168 题、Java 163 题、kt 1 题、Python 0 题、js 5 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 415 题，目前已整理代码 339 题，其中 C/C++ 168 题、Java 164 题、kt 1 题、Python 0 题、js 5 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -326,6 +326,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 845              | Longest Mountain in Array                      |                     | 双指针                                        | java     |
 | LeetCode   | 858              | Mirror Reflection                              |                     |                                               | java     |
 | LeetCode   | 860              | Lemonade Change                                |                     | 贪心                                          |          |
+| LeetCode   | 865              | Smallest Subtree with all the Deepest Nodes    |                    | 递归,记忆化搜索                               | java    |
 | LeetCode   | 881              | 救生艇                                         | 双指针              | 贪心                                          |          |
 | LeetCode   | 897              | Increasing Order Search Tree                  | 二叉搜索树          | 递归                                           | java     |
 | LeetCode   | 901              | Online Stock Span                             |  栈                |                                                | java     |
