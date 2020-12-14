@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 416 题，目前已整理代码 340 题，其中 C/C++ 168 题、Java 165 题、Kotlin 1 题、Python 0 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 417 题，目前已整理代码 341 题，其中 C/C++ 168 题、Java 166 题、Kotlin 1 题、Python 0 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -273,6 +273,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 116              | Populating Next Right Pointers in Each Node    |                     |                                               |  java   |
 | LeetCode   | 117              | Populating Next Right Pointers in Each Node II |                     |                                               |  java   |
 | LeetCode   | 119              | Pascal's Triangle II                           |                     |                                               |  java   |
+| LeetCode   | 131              | Palindrome Partitioning                        |                     | 动态规划,回溯                                  | java   |
 | LeetCode   | 136              | 只出现一次的数字                                |                     |                                               | c     |
 | LeetCode   | 137              | Single Number II                               |                     |  位运算                                       | java     |
 | LeetCode   | 155              | 最小栈                                         | 栈                  |                                               | java     |
