@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 417 题，目前已整理代码 341 题，其中 C/C++ 168 题、Java 166 题、Kotlin 1 题、Python 0 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 418 题，目前已整理代码 342 题，其中 C/C++ 168 题、Java 167 题、Kotlin 1 题、Python 0 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -338,6 +338,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 941              | Valid Mountain Array                           |                     |                                               | java     |
 | LeetCode   | 970              | Powerful Integers                              |                     |                                               |          |
 | LeetCode   | 974              | Subarray Sums Divisible by K                   |                     | 前缀和,差分                                   |          |
+| LeetCode   | 977              | Squares of a Sorted Array                      |                     | 双指针                                       | java       |
 | LeetCode   | 983              | Minimum Cost For Tickets                       |                     | 动态规划                                      | java |
 | LeetCode   | 984              | String Without AAA or BBB                      |                     | 贪心                                          |          |
 | LeetCode   | 986b             | Interval List Intersections                    |                     |                                               | java     |
