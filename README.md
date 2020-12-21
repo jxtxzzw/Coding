@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 422 题，目前已整理代码 346 题，其中 C/C++ 168 题、Java 171 题、Kotlin 1 题、Python 0 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 423 题，目前已整理代码 347 题，其中 C/C++ 168 题、Java 172 题、Kotlin 1 题、Python 0 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -336,6 +336,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 897              | Increasing Order Search Tree                  | 二叉搜索树          | 递归                                           | java     |
 | LeetCode   | 901              | Online Stock Span                             |  栈                |                                                | java     |
 | LeetCode   | 902              | Numbers At Most N Given Digit Set             |                     |  数位DP,数学,进制转换,贪心                      | java     |
+| LeetCode   | 910              | Smallest Range II                              |                     |                                                | java     |
 | LeetCode   | 918              | Maximum Sum Circular Subarray                 |                     | 前缀和,双端队列,动态规划                        | java     |
 | LeetCode   | 938              | Range Sum of BST                               |                     |                                               | java     |
 | LeetCode   | 941              | Valid Mountain Array                           |                     |                                               | java     |
