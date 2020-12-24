@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 425 题，目前已整理代码 349 题，其中 C/C++ 168 题、Java 174 题、Kotlin 1 题、Python 0 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 426 题，目前已整理代码 350 题，其中 C/C++ 169 题、Java 174 题、Kotlin 1 题、Python 0 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -253,7 +253,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 20               | 有效的括号                                     | 栈                  |                                               | java     |
 | LeetCode   | 21               | Merge Two Sorted Lists                         |  链表               | 归并排序                                      | c     |
 | LeetCode   | 22               | Generate Parentheses                           |                     | 动态规划                                      | java     |
-| LeetCode   | 24               | 两两交换链表中的节点                           | 链表                |                                               | java     |
+| LeetCode   | 24               | Swap Nodes in Pairs                             | 链表                |                                               | c     |
 | LeetCode   | 25               | K 个一组翻转链表                               | 链表                |                                               | java     |
 | LeetCode   | 33               | Search in Rotated Sorted Array                |                     | 二分                                           | java     |
 | LeetCode   | 45               | 跳跃游戏 II                                    |                     | 贪心                                          | java     |
