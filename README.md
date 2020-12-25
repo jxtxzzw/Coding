@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 426 题，目前已整理代码 350 题，其中 C/C++ 169 题、Java 174 题、Kotlin 1 题、Python 0 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 427 题，目前已整理代码 351 题，其中 C/C++ 169 题、Java 175 题、Kotlin 1 题、Python 0 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -316,6 +316,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 454              | 4Sum II                                       |                     |                                              | java     |
 | LeetCode   | 458              | Poor Pigs                                     |                     | 进制转换                                      | java     |
 | LeetCode   | 476              | Number Complement                             | 哈希表               |                                              | java     |
+| LeetCode   | 498              | Diagonal Traverse                             |                     |                                               | java    |
 | LeetCode   | 516              | 最长回文子序列                                 |                     | 动态规划                                      | java     |
 | LeetCode   | 540              | Single Element in a Sorted Array              |                     | 二分查找                                      | java     |
 | LeetCode   | 556              | Next Greater Element III                      |                     |                                               | java    |
