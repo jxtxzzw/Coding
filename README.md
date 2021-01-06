@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 433 题，目前已整理代码 357 题，其中 C/C++ 170 题、Java 180 题、Kotlin 1 题、Python 0 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 434 题，目前已整理代码 358 题，其中 C/C++ 171 题、Java 180 题、Kotlin 1 题、Python 0 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -369,7 +369,8 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 1457             | Pseudo-Palindromic Paths in a Binary Tree      |                     |                                               | java    |
 | LeetCode   | 1463             | Cherry Pickup II                               |                     | 动态规划                                      | java    |
 | LeetCode   | 1492             | The kth Factor of n                            |                     |                                              | java     |
-| LeetCode   | Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree | Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree | | | java  |
+| LeetCode   | 1539             | Kth Missing Positive Number                    |                     |                                              | c        |
+| LeetCode   | 1430             | Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree |  |                                | java     |
 | POJ        | 1182             | 食物链                                         | 并查集              |                                               |          |
 | POJ        | 1804             | Brainman                                       |                     | 归并排序                                      | java     |
 | POJ        | 1852             | Ants                                           |                     |                                               | cpp      |
