@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 436 题，目前已整理代码 360 题，其中 C/C++ 171 题、Java 182 题、Kotlin 1 题、Python 0 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 437 题，目前已整理代码 361 题，其中 C/C++ 171 题、Java 183 题、Kotlin 1 题、Python 0 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -245,6 +245,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | HDU        | 6154             | CaoHaha's staff                                              |                     |                                               | java     |
 | HDU        | 6170             | Two strings                                                  |                     | 动态规划,正则表达式                           | java     |
 | LeetCode   | 1                | Two Sum                                                      | 表                  | 哈希                                          |          |
+| LeetCode   | 2                | Add Two Numbers                                              | 链表               |                                                | java     |
 | LeetCode   | 3                | Longest Substring Without Repeating Characters               | 滑动窗口            |                                               | java     |
 | LeetCode   | 5                | Longest Palindromic Substring                                |                     | 动态规划,最长回文子串,中心扩展                | java     |
 | LeetCode   | 7                | Reverse Integer                                              |                     |                                               |          |
