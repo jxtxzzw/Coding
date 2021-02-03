@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 441 题，目前已整理代码 365 题，其中 C/C++ 171 题、Java 187 题、Kotlin 1 题、Python 0 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 442 题，目前已整理代码 366 题，其中 C/C++ 171 题、Java 188 题、Kotlin 1 题、Python 0 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -281,6 +281,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 131              | Palindrome Partitioning                                      |                     | 动态规划,回溯                                 | java     |
 | LeetCode   | 136              | 只出现一次的数字                                             |                     |                                               | c        |
 | LeetCode   | 137              | Single Number II                                             |                     | 位运算                                        | java     |
+| LeetCode   | 141              | Linked List Cycle                                            | 链表                | 双指针                                        | java     |
 | LeetCode   | 155              | 最小栈                                                       | 栈                  |                                               | java     |
 | LeetCode   | 169              | Majority Element                                             |                     | 摩尔投票法                                    | java     |
 | LeetCode   | 173              | Binary Search Tree Iterator                                  | 栈                  |                                               | java     |
