@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 444 题，目前已整理代码 368 题，其中 C/C++ 171 题、Java 190 题、Kotlin 1 题、Python 0 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 445 题，目前已整理代码 369 题，其中 C/C++ 171 题、Java 191 题、Kotlin 1 题、Python 0 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -290,6 +290,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 179              | Largest Number                                               |                     | 贪心                                          |          |
 | LeetCode   | 191              | Number of 1 Bits                                               |                  |                                                | java    |
 | LeetCode   | 198              | 打家劫舍                                                     |                     | 动态规划                                      | cpp      |
+| LeetCode   | 199              | Binary Tree Right Side View                                 | 二叉树               | 广度优先搜索                                   | java     |
 | LeetCode   | 200              | Number of Islands                                            |                     | 深度优先搜索                                  | java     |
 | LeetCode   | 208              | 实现Trie（前缀树）                                           | 前缀树              |                                               | java     |
 | LeetCode   | 212              | 单词搜索 II                                                  | 前缀树              | 深度优先搜索                                  | java     |
