@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 450 题，目前已整理代码 374 题，其中 C/C++ 171 题、Java 196 题、Kotlin 1 题、Python 0 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 451 题，目前已整理代码 375 题，其中 C/C++ 171 题、Java 197 题、Kotlin 1 题、Python 0 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -282,7 +282,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 131              | Palindrome Partitioning                                      |                     | 动态规划,回溯                                 | java     |
 | LeetCode   | 136              | 只出现一次的数字                                             |                     |                                               | c        |
 | LeetCode   | 137              | Single Number II                                             |                     | 位运算                                        | java     |
-| LeetCode   | 138    | Copy List with Random Pointer       | 链表      |             | java  |
+| LeetCode   | 138              | Copy List with Random Pointer       | 链表      |             | java  |
 | LeetCode   | 141              | Linked List Cycle                                            | 链表                | 双指针                                        | java     |
 | LeetCode   | 155              | 最小栈                                                       | 栈                  |                                               | java     |
 | LeetCode   | 169              | Majority Element                                             |                     | 摩尔投票法                                    | java     |
@@ -301,6 +301,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 236              | 二叉树的最近公共祖先                                         | 二叉树              |                                               | java     |
 | LeetCode   | 239              | Sliding Window Maximum                                       |                     | 滑动窗口,双端队列                             | java     |
 | LeetCode   | 242              | 有效的字母异位词                                             |                     | 哈希                                          | java     |
+| LeetCode   | 268              | Missing Number                                                |                     | 数学                                          | java     |
 | LeetCode   | 274              | H-Index                                                      |                     |                                               | c        |
 | LeetCode   | 278              | First Bad Version                                            |                     | 二分查找                                      | java     |
 | LeetCode   | 284              | Peeking Iterator                                             | 双指针              |                                               | java   |
