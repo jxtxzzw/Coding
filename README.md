@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 454 题，目前已整理代码 378 题，其中 C/C++ 171 题、Java 200 题、Kotlin 1 题、Python 0 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 455 题，目前已整理代码 379 题，其中 C/C++ 171 题、Java 201 题、Kotlin 1 题、Python 0 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -339,6 +339,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 593              | Valid Square                                                 |                     |                                               | java     |
 | LeetCode   | 594              | Longest Harmonious Subsequence                               | 哈希表               | 贪心                                          | java     |
 | LeetCode   | 605              | Can Place Flowers                                            |                     | 贪心,数学                                     | java     |
+| LeetCode   | 637              | Average of Levels in Binary Tree                              |                      |                                               | java     |
 | LeetCode   | 645              | Set Mismatch                                                 |                      | 位运算                                          | java     |
 | LeetCode   | 669              | Trim a Binary Search Tree                                    | 二叉树              | 递归                                          | java     |
 | LeetCode   | 678              | Valid Parenthesis String                                     |                     | 动态规划,贪心                                 | java     |
