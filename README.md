@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 459 题，目前已整理代码 383 题，其中 C/C++ 171 题、Java 205 题、Kotlin 1 题、Python 0 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 460 题，目前已整理代码 384 题，其中 C/C++ 171 题、Java 206 题、Kotlin 1 题、Python 0 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -314,6 +314,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 315              | 计算右侧小于当前元素的个数                                   | 树状数组            | 离散化                                        | cpp      |
 | LeetCode   | 316              | Burst Balloons                                               |                     | 动态规划                                      | java     |
 | LeetCode   | 319              | Bulb Switcher                                                |                     |                                               |          |
+| LeetCode   | 322              | Coin Change                                                  |                     | 动态规划                                      | java      |
 | LeetCode   | 328              | Odd Even Linked List                                         |                     |                                               | java     |
 | LeetCode   | 334              | Increasing Triplet Subsequence                               |                     |                                               | java     |
 | LeetCode   | 337              | House Robber III                                             | 二叉树              | 递归,动态规划                                 | java     |
