@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 460 题，目前已整理代码 384 题，其中 C/C++ 171 题、Java 206 题、Kotlin 1 题、Python 0 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 461 题，目前已整理代码 385 题，其中 C/C++ 171 题、Java 207 题、Kotlin 1 题、Python 0 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -394,6 +394,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 1492             | The kth Factor of n                                          |                     |                                               | java     |
 | LeetCode   | 1539             | Kth Missing Positive Number                                  |                     |                                               | c        |
 | LeetCode   | 1430             | Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree |                     |                                               | java     |
+| LeetCode   | 1461             | Check If a String Contains All Binary Codes of Size K        |                     |  滑动窗口,哈希                                 | java       |
 | LeetCode   | 1646             | Get Maximum in Generated Array                               |                     |                                               | java     |
 | LeetCode   | 1658             | Minimum Operations to Reduce X to Zero                       |                     | 贪心,双指针,滑动窗口                           | java     |
 | LeetCode   | 1662             | Check If Two String Arrays are Equivalent                    |                     |                                               | java     |
