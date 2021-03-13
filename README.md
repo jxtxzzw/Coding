@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 461 题，目前已整理代码 385 题，其中 C/C++ 171 题、Java 207 题、Kotlin 1 题、Python 0 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 462 题，目前已整理代码 386 题，其中 C/C++ 171 题、Java 208 题、Kotlin 1 题、Python 0 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -354,6 +354,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 804              | Unique Morse Code Words                                      | 集合                |                                               | java     |
 | LeetCode   | 820              | Short Encoding of Words                                        | 字典树            | 贪心                                             | java   |
 | LeetCode   | 821              | Shortest Distance to a Character                             |                     | 贪心                                             | java   |
+| LeetCode   | 823              | Binary Trees With Factors                                   |                     | 动态规划                                      | java     |
 | LeetCode   | 844              | 比较含退格的字符串                                           | 栈                  | 双指针                                        | c        |
 | LeetCode   | 845              | Longest Mountain in Array                                    |                     | 双指针                                        | java     |
 | LeetCode   | 856              | Score of Parentheses                                         |                     | 贪心,数学                                      | java     |
