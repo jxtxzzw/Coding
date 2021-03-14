@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 462 题，目前已整理代码 386 题，其中 C/C++ 171 题、Java 208 题、Kotlin 1 题、Python 0 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 463 题，目前已整理代码 387 题，其中 C/C++ 171 题、Java 209 题、Kotlin 1 题、Python 0 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -399,6 +399,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 1646             | Get Maximum in Generated Array                               |                     |                                               | java     |
 | LeetCode   | 1658             | Minimum Operations to Reduce X to Zero                       |                     | 贪心,双指针,滑动窗口                           | java     |
 | LeetCode   | 1662             | Check If Two String Arrays are Equivalent                    |                     |                                               | java     |
+| LeetCode   | 1721             | Swapping Nodes in a Linked List                              |                     |                                               | java     |
 | POJ        | 1182             | 食物链                                                       | 并查集              |                                               |          |
 | POJ        | 1804             | Brainman                                                     |                     | 归并排序                                      | java     |
 | POJ        | 1852             | Ants                                                         |                     |                                               | cpp      |
