@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 463 题，目前已整理代码 387 题，其中 C/C++ 171 题、Java 209 题、Kotlin 1 题、Python 0 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 464 题，目前已整理代码 388 题，其中 C/C++ 171 题、Java 210 题、Kotlin 1 题、Python 0 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -331,6 +331,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 454              | 4Sum II                                                      |                     |                                               | java     |
 | LeetCode   | 458              | Poor Pigs                                                    |                     | 进制转换                                      | java     |
 | LeetCode   | 476              | Number Complement                                            | 哈希表              |                                               | java     |
+| LeetCode   | 478              | Generate Random Point in a Circle                            |                     | 数学                                          | java     |
 | LeetCode   | 498              | Diagonal Traverse                                            |                     |                                               | java     |
 | LeetCode   | 516              | 最长回文子序列                                               |                     | 动态规划                                      | java     |
 | LeetCode   | 538              | Convert BST to Greater Tree                                  | 二叉树              | Reverse Morris In-order Traversal             | java    |
