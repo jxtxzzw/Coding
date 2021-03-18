@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 464 题，目前已整理代码 388 题，其中 C/C++ 171 题、Java 210 题、Kotlin 1 题、Python 0 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 465 题，目前已整理代码 389 题，其中 C/C++ 171 题、Java 211 题、Kotlin 1 题、Python 0 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -319,6 +319,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 334              | Increasing Triplet Subsequence                               |                     |                                               | java     |
 | LeetCode   | 337              | House Robber III                                             | 二叉树              | 递归,动态规划                                 | java     |
 | LeetCode   | 367              | Valid Perfect Square                                         |                     |                                               | js       |
+| LeetCode   | 376              | Wiggle Subsequence                                           |                    | 贪心                                           | java     |
 | LeetCode   | 382              | Linked List Random Node                                      |                     |                                               |          |
 | LeetCode   | 383              | Ransom Note                                                  | 哈希表              |                                               | js       |
 | LeetCode   | 387              | First Unique Character in a String                           |                     |                                               | java     |
