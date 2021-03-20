@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 467 题，目前已整理代码 391 题，其中 C/C++ 171 题、Java 213 题、Kotlin 1 题、Python 0 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 468 题，目前已整理代码 392 题，其中 C/C++ 171 题、Java 213 题、Kotlin 1 题、Python 1 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -394,6 +394,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 1306             | Jump Game III                                                |                     | 深度优先搜索,广度优先搜索                     | java     |
 | LeetCode   | 1332             | Remove Palindromic Subsequences                              |                     |                                              | java     |
 | LeetCode   | 1345             | Jump Game IV                                                 |                     | 广度优先搜索                                  | java     |
+| LeetCode   | 1396             | Design Underground System                                    |                     |                                               | py       |
 | LeetCode   | 1457             | Pseudo-Palindromic Paths in a Binary Tree                    |                     |                                               | java     |
 | LeetCode   | 1463             | Cherry Pickup II                                             |                     | 动态规划                                      | java     |
 | LeetCode   | 1492             | The kth Factor of n                                          |                     |                                               | java     |
