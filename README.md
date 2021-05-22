@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 470 题，目前已整理代码 394 题，其中 C/C++ 171 题、Java 215 题、Kotlin 1 题、Python 1 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 471 题，目前已整理代码 395 题，其中 C/C++ 171 题、Java 216 题、Kotlin 1 题、Python 1 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -368,6 +368,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 869              | Reordered Power of 2                                         |                     |                                                | java    |
 | LeetCode   | 880              | Decoded String at Index                                      |                     | 递归,余数                                     | java     |
 | LeetCode   | 881              | Boats to Save People                                         | 双指针              | 贪心                                          | java     |
+| LeetCode   | 890              | Find and Replace Pattern                                     | 哈希表              |                                               | java     |
 | LeetCode   | 897              | Increasing Order Search Tree                                 | 二叉搜索树          | 递归                                          | java     |
 | LeetCode   | 901              | Online Stock Span                                            | 栈                  |                                               | java     |
 | LeetCode   | 902              | Numbers At Most N Given Digit Set                            |                     | 数位DP,数学,进制转换,贪心                     | java     |
