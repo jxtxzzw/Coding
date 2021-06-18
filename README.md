@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 472 题，目前已整理代码 396 题，其中 C/C++ 171 题、Java 217 题、Kotlin 1 题、Python 1 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 474 题，目前已整理代码 398 题，其中 C/C++ 171 题、Java 219 题、Kotlin 1 题、Python 1 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -312,6 +312,8 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 289              | Game of Life                                                 |                     |                                               | java     |
 | LeetCode   | 295              | 数据流的中位数                                               | 堆                  |                                               | java     |
 | LeetCode   | 300              | 最长上升子序列                                               |                     | 动态规划,贪心,二分查找                        | java     |
+| LeetCode   | 303              | Range Sum Query - Immutable                                   | 树状数组             |                                              | java     |
+| LeetCode   | 307              | Range Sum Query - Mutable                                     | 树状数组             |                                              | java     |
 | LeetCode   | 315              | 计算右侧小于当前元素的个数                                   | 树状数组            | 离散化                                        | cpp      |
 | LeetCode   | 316              | Burst Balloons                                               |                     | 动态规划                                      | java     |
 | LeetCode   | 319              | Bulb Switcher                                                |                     |                                               |          |
