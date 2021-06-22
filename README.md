@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 477 题，目前已整理代码 400 题，其中 C/C++ 171 题、Java 221 题、Kotlin 1 题、Python 1 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 478 题，目前已整理代码 401 题，其中 C/C++ 171 题、Java 222 题、Kotlin 1 题、Python 1 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -360,6 +360,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 739              | 每日温度                                                     | 栈                  |                                               | java     |
 | LeetCode   | 754              | Reach a Number                                               |                     |                                               | java     |
 | LeetCode   | 771              | Jewels and Stones                                            |                     |                                               | js       |
+| LeetCode   | 792              | Number of Matching Subsequences                               |                   |                                                | java     |
 | LeetCode   | 804              | Unique Morse Code Words                                      | 集合                |                                               | java     |
 | LeetCode   | 820              | Short Encoding of Words                                        | 字典树            | 贪心                                             | java   |
 | LeetCode   | 821              | Shortest Distance to a Character                             |                     | 贪心                                             | java   |
