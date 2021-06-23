@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 478 题，目前已整理代码 401 题，其中 C/C++ 171 题、Java 222 题、Kotlin 1 题、Python 1 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 479 题，目前已整理代码 402 题，其中 C/C++ 171 题、Java 223 题、Kotlin 1 题、Python 1 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -274,6 +274,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 82               | Remove Duplicates from Sorted List II                        |                     |                                               | c        |
 | LeetCode   | 88               | Merge Sorted Array                                           |                     | 归并排序                                      | java     |
 | LeetCode   | 91               | Decode Ways                                                  |                     | 动态规划                                      | java     |
+| LeetCode   | 92               | Reverse Linked List II                                      | 链表                 |                                              | java     |
 | LeetCode   | 98               | 验证二叉搜索树                                               | 二叉搜索树          |                                               | java     |
 | LeetCode   | 104              | Maximum Depth of Binary Tree                                 |                     |                                               | java     |
 | LeetCode   | 116              | Populating Next Right Pointers in Each Node                  |                     |                                               | java     |
