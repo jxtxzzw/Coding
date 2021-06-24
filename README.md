@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 479 题，目前已整理代码 402 题，其中 C/C++ 171 题、Java 223 题、Kotlin 1 题、Python 1 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 480 题，目前已整理代码 403 题，其中 C/C++ 171 题、Java 224 题、Kotlin 1 题、Python 1 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -347,6 +347,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 556              | Next Greater Element III                                     |                     |                                               | java     |
 | LeetCode   | 567              | Permutation in String                                        |                     | 滑动窗口                                      | java     |
 | LeetCode   | 575              | Distribute Candies                                            |                     |                                               | java     |
+| LeetCode   | 576              | Out of Boundary Paths                                        |                     | 动态规划                                      | java     |
 | LeetCode   | 593              | Valid Square                                                 |                     |                                               | java     |
 | LeetCode   | 594              | Longest Harmonious Subsequence                               | 哈希表               | 贪心                                          | java     |
 | LeetCode   | 605              | Can Place Flowers                                            |                     | 贪心,数学                                     | java     |
