@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 480 题，目前已整理代码 403 题，其中 C/C++ 171 题、Java 224 题、Kotlin 1 题、Python 1 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 481 题，目前已整理代码 404 题，其中 C/C++ 171 题、Java 225 题、Kotlin 1 题、Python 1 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -355,6 +355,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 645              | Set Mismatch                                                 |                      | 位运算                                          | java     |
 | LeetCode   | 669              | Trim a Binary Search Tree                                    | 二叉树              | 递归                                          | java     |
 | LeetCode   | 678              | Valid Parenthesis String                                     |                     | 动态规划,贪心                                 | java     |
+| LeetCode   | 684              | Redundant Connection                                         | 并查集               |                                               | java    |
 | LeetCode   | 706              | Design HashMap                                                |                     |                                               | java    |
 | LeetCode   | 714              | Best Time to Buy and Sell Stock with Transaction Fee         |                     | 动态规划                                      | java     |
 | LeetCode   | 717              | 1-bit and 2-bit Characters                                   |                     |                                               |          |
