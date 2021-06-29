@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 481 题，目前已整理代码 404 题，其中 C/C++ 171 题、Java 225 题、Kotlin 1 题、Python 1 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 482 题，目前已整理代码 405 题，其中 C/C++ 171 题、Java 226 题、Kotlin 1 题、Python 1 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -401,6 +401,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 1010             | Pairs of Songs With Total Durations Divisible by 60          |                     |                                               | java     |
 | LeetCode   | 1015             | Smallest Integer Divisible by K                              |                     |                                               | c        |
 | LeetCode   | 1046             | Last Stone Weight                                            | 优先级队列          |                                               | java     |
+| LeetCode   | 1047             | Remove All Adjacent Duplicates In String                     | 栈                  | 贪心                                          | java     |
 | LeetCode   | 1232             | Check If It Is a Straight Line                               |                     |                                               | java     |
 | LeetCode   | 1277             | Count Square Submatrices with All Ones                       |                     | 动态规划                                      | java     |
 | LeetCode   | 1286             | Iterator for Combination                                     |                     |                                               | java     |
