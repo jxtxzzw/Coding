@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 483 题，目前已整理代码 406 题，其中 C/C++ 171 题、Java 227 题、Kotlin 1 题、Python 1 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 483 题，目前已整理代码 406 题，其中 C/C++ 170 题、Java 228 题、Kotlin 1 题、Python 1 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -318,7 +318,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 303              | Range Sum Query 2D - Immutable                                | 树状数组             |                                              | java     |
 | LeetCode   | 307              | Range Sum Query - Mutable                                     | 树状数组             |                                              | java     |
 | LeetCode   | 308              | Range Sum Query 2D - Mutable                                     | 树状数组             |                                              |        |
-| LeetCode   | 315              | 计算右侧小于当前元素的个数                                   | 树状数组            | 离散化                                        | cpp      |
+| LeetCode   | 315              | Count of Smaller Numbers After Self                                   | 树状数组            | 离散化                                        | java      |
 | LeetCode   | 316              | Burst Balloons                                               |                     | 动态规划                                      | java     |
 | LeetCode   | 319              | Bulb Switcher                                                |                     |                                               |          |
 | LeetCode   | 322              | Coin Change                                                  |                     | 动态规划                                      | java      |
