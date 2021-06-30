@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 483 题，目前已整理代码 406 题，其中 C/C++ 170 题、Java 228 题、Kotlin 1 题、Python 1 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 484 题，目前已整理代码 407 题，其中 C/C++ 170 题、Java 229 题、Kotlin 1 题、Python 1 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -283,6 +283,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 118              | Pascal's Triangle                                            |                     |                                               | java     |
 | LeetCode   | 119              | Pascal's Triangle II                                         |                     |                                               | java     |
 | LeetCode   | 131              | Palindrome Partitioning                                      |                     | 动态规划,回溯                                 | java     |
+| LeetCode   | 135              | Candy                                                        |                     | 贪心                                           | java        |
 | LeetCode   | 136              | 只出现一次的数字                                             |                     |                                               | c        |
 | LeetCode   | 137              | Single Number II                                             |                     | 位运算                                        | java     |
 | LeetCode   | 138              | Copy List with Random Pointer                                | 链表                 |                                             | java  |
