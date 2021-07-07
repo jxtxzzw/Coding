@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 488 题，目前已整理代码 411 题，其中 C/C++ 170 题、Java 233 题、Kotlin 1 题、Python 1 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 489 题，目前已整理代码 412 题，其中 C/C++ 170 题、Java 234 题、Kotlin 1 题、Python 1 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -347,6 +347,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 538              | Convert BST to Greater Tree                                  | 二叉树              | Reverse Morris In-order Traversal             | java    |
 | LeetCode   | 540              | Single Element in a Sorted Array                             |                     | 二分查找                                      | java     |
 | LeetCode   | 556              | Next Greater Element III                                     |                     |                                               | java     |
+| LeetCode   | 566              | Reshape the Matrix                                           |                     |                                               | java     |
 | LeetCode   | 567              | Permutation in String                                        |                     | 滑动窗口                                      | java     |
 | LeetCode   | 575              | Distribute Candies                                            |                     |                                               | java     |
 | LeetCode   | 576              | Out of Boundary Paths                                        |                     | 动态规划                                      | java     |
