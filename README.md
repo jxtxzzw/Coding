@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 489 题，目前已整理代码 412 题，其中 C/C++ 170 题、Java 234 题、Kotlin 1 题、Python 1 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 490 题，目前已整理代码 413 题，其中 C/C++ 170 题、Java 235 题、Kotlin 1 题、Python 1 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -329,6 +329,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 337              | House Robber III                                             | 二叉树              | 递归,动态规划                                 | java     |
 | LeetCode   | 367              | Valid Perfect Square                                         |                     |                                               | js       |
 | LeetCode   | 376              | Wiggle Subsequence                                           |                    | 贪心                                           | java     |
+| LeetCode   | 378              | Kth Smallest Element in a Sorted Matrix                      |                    | 二分查找                                           | java     |
 | LeetCode   | 382              | Linked List Random Node                                      |                     |                                               |          |
 | LeetCode   | 383              | Ransom Note                                                  | 哈希表              |                                               | js       |
 | LeetCode   | 387              | First Unique Character in a String                           |                     |                                               | java     |
