@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 491 题，目前已整理代码 414 题，其中 C/C++ 170 题、Java 236 题、Kotlin 1 题、Python 1 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 492 题，目前已整理代码 415 题，其中 C/C++ 170 题、Java 237 题、Kotlin 1 题、Python 1 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -338,6 +338,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 395              | Longest Substring with At Least K Repeating Characters       | 哈希表              | 递归                                          | kt       |
 | LeetCode   | 402              | Remove K Digits                                              | 单调栈              | 贪心                                          | java     |
 | LeetCode   | 416              | Partition Equal Subset Sum                                   |                     | 动态规划                                      | java     |
+| LeetCode   | 423              | Reconstruct Original Digits from English                     |                     | 贪心                                          | java     |
 | LeetCode   | 438              | Find All Anagrams in a String                                |                     | 滑动窗口                                      | java     |
 | LeetCode   | 451              | Sort Characters By Frequency                                 |                     |                                               | java     |
 | LeetCode   | 454              | 4Sum II                                                      |                     |                                               | java     |
