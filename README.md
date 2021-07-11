@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 493 题，目前已整理代码 416 题，其中 C/C++ 170 题、Java 238 题、Kotlin 1 题、Python 1 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 494 题，目前已整理代码 417 题，其中 C/C++ 170 题、Java 239 题、Kotlin 1 题、Python 1 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -262,6 +262,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 47               | Permutations II                                              |                     | 回溯                                          | java     |
 | LeetCode   | 50               | Pow(x, n)                                                    |                     | 分治,快速幂                                   | java     |
 | LeetCode   | 53               | 最大子序和                                                   |                     | 动态规划                                      | js       |
+| LeetCode   | 55               | Jump Game                                                   |                     | 贪心                                              | java       |
 | LeetCode   | 56               | Merge Intervals                                              |                     |                                               | js       |
 | LeetCode   | 58               | Length of Last Word                                          |                     |                                               | java     |
 | LeetCode   | 59               | Spiral Matrix II                                             |                     |                                               | java     |
