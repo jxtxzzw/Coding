@@ -286,7 +286,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 119              | Pascal's Triangle II                                         |                     |                                               | java     |
 | LeetCode   | 131              | Palindrome Partitioning                                      |                     | 动态规划,回溯                                 | java     |
 | LeetCode   | 135              | Candy                                                        |                     | 贪心                                           | java        |
-| LeetCode   | 136              | 只出现一次的数字                                             |                     |                                               | c        |
+| LeetCode   | 136              | Single Number                                                |                     | 位运算                                         | c        |
 | LeetCode   | 137              | Single Number II                                             |                     | 位运算                                        | java     |
 | LeetCode   | 138              | Copy List with Random Pointer                                | 链表                 |                                             | java  |
 | LeetCode   | 141              | Linked List Cycle                                            | 链表                | 双指针                                        | java     |
