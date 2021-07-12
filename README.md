@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 494 题，目前已整理代码 417 题，其中 C/C++ 170 题、Java 239 题、Kotlin 1 题、Python 1 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 495 题，目前已整理代码 418 题，其中 C/C++ 170 题、Java 240 题、Kotlin 1 题、Python 1 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -257,6 +257,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 22               | Generate Parentheses                                         |                     | 动态规划                                      | java     |
 | LeetCode   | 24               | Swap Nodes in Pairs                                          | 链表                |                                               | c        |
 | LeetCode   | 25               | K 个一组翻转链表                                             | 链表                |                                               | java     |
+| LeetCode   | 32               | Longest Valid Parentheses                                    | 栈                  | 动态规划,贪心                                          | java     |
 | LeetCode   | 33               | Search in Rotated Sorted Array                               |                     | 二分                                          | java     |
 | LeetCode   | 45               | 跳跃游戏 II                                                  |                     | 贪心                                          | java     |
 | LeetCode   | 47               | Permutations II                                              |                     | 回溯                                          | java     |
