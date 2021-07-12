@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 496 题，目前已整理代码 420 题，其中 C/C++ 170 题、Java 242 题、Kotlin 1 题、Python 1 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
+共有记录 497 题，目前已整理代码 421 题，其中 C/C++ 170 题、Java 243 题、Kotlin 1 题、Python 1 题、Javascript 5 题、ML/SML/OCaml 0 题、SQL 1 题。
 
 
 
@@ -303,6 +303,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 198              | 打家劫舍                                                     |                     | 动态规划                                      | cpp      |
 | LeetCode   | 199              | Binary Tree Right Side View                                 | 二叉树               | 广度优先搜索                                   | java     |
 | LeetCode   | 200              | Number of Islands                                            |                     | 深度优先搜索                                  | java     |
+| LeetCode   | 205              | Isomorphic Strings                                          | 哈希表                |                                               | java     |
 | LeetCode   | 208              | 实现Trie（前缀树）                                           | 前缀树              |                                               | java     |
 | LeetCode   | 212              | 单词搜索 II                                                  | 前缀树              | 深度优先搜索                                  | java     |
 | LeetCode   | 218              | The Skyline Problem                                          |                     | 扫描线算法                                    | java     |
