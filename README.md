@@ -18,11 +18,11 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 504 题 (records in total)
+共有记录 505 题 (records in total)
 
 + CodeForces: 8
 + CSU: 1
-+ EOJ: 195
++ EOJ: 196
 + HDU: 16
 + LeetCode: 194
 + POJ: 13
@@ -31,10 +31,10 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 + 计蒜客: 68
 + 洛谷: 2
 
-目前已整理代码 424 题 (with code and tags)
+目前已整理代码 425 题 (with code and tags)
 
 + 172 题使用 C/C++ 编写 (solved with C/C++)
-+ 244 题使用 Java 编写 (solved with Java)
++ 245 题使用 Java 编写 (solved with Java)
 + 1 题使用 Kotlin 编写 (solved with Kotlin) 
 + 1 题使用 Python 编写 (solved with Python) 
 + 5 题使用 Javascript 编写 (solved with Javascript) 
@@ -402,6 +402,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 733              | Flood Fill                                                   |                     | 深度优先搜索                                  | java     |
 | LeetCode   | 739              | 每日温度                                                     | 栈                  |                                               | java     |
 | LeetCode   | 754              | Reach a Number                                               |                     |                                               | java     |
+| LeetCode   | 765              | Couples Holding Hands                                        |                      | 贪心                                              | java     |
 | LeetCode   | 771              | Jewels and Stones                                            |                     |                                               | js       |
 | LeetCode   | 792              | Number of Matching Subsequences                              |                     |                                               | java     |
 | LeetCode   | 804              | Unique Morse Code Words                                      | 集合                |                                               | java     |
