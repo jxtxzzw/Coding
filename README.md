@@ -18,23 +18,23 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 503 题 (records in total)
+共有记录 504 题 (records in total)
 
 + CodeForces: 8
 + CSU: 1
 + EOJ: 195
 + HDU: 16
-+ LeetCode: 193
++ LeetCode: 194
 + POJ: 13
 + UVa: 6
 + ZOJ: 1
 + 计蒜客: 68
 + 洛谷: 2
 
-目前已整理代码 423 题 (with code and tags)
+目前已整理代码 424 题 (with code and tags)
 
 + 172 题使用 C/C++ 编写 (solved with C/C++)
-+ 243 题使用 Java 编写 (solved with Java)
++ 244 题使用 Java 编写 (solved with Java)
 + 1 题使用 Kotlin 编写 (solved with Kotlin) 
 + 1 题使用 Python 编写 (solved with Python) 
 + 5 题使用 Javascript 编写 (solved with Javascript) 
@@ -320,6 +320,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 141              | Linked List Cycle                                            | 链表                | 双指针                                        | java     |
 | LeetCode   | 155              | 最小栈                                                       | 栈                  |                                               | java     |
 | LeetCode   | 160              | Intersection of Two Linked Lists                             |                     | 双指针                                        | java     |
+| LeetCode   | 162              | Find Peak Element                                            |                     | 二分查找                                        | java     |
 | LeetCode   | 164              | Maximum Gap                                                  |                     | 桶排序                                        | java     |
 | LeetCode   | 169              | Majority Element                                             |                     | 摩尔投票法                                    | java     |
 | LeetCode   | 173              | Binary Search Tree Iterator                                  | 栈                  |                                               | java     |
