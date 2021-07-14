@@ -18,13 +18,13 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 505 题 (records in total)
+共有记录 507 题 (records in total)
 
 + CodeForces: 8
 + CSU: 1
 + EOJ: 196
 + HDU: 16
-+ LeetCode: 194
++ LeetCode: 196
 + POJ: 13
 + UVa: 6
 + ZOJ: 1
@@ -34,7 +34,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 目前已整理代码 425 题 (with code and tags)
 
 + 172 题使用 C/C++ 编写 (solved with C/C++)
-+ 245 题使用 Java 编写 (solved with Java)
++ 247 题使用 Java 编写 (solved with Java)
 + 1 题使用 Kotlin 编写 (solved with Kotlin) 
 + 1 题使用 Python 编写 (solved with Python) 
 + 5 题使用 Javascript 编写 (solved with Javascript) 
@@ -465,6 +465,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 1658             | Minimum Operations to Reduce X to Zero                       |                     | 贪心,双指针,滑动窗口                          | java     |
 | LeetCode   | 1662             | Check If Two String Arrays are Equivalent                    |                     |                                               | java     |
 | LeetCode   | 1721             | Swapping Nodes in a Linked List                              |                     |                                               | java     |
+| LeetCode   | 1739             | Building Boxes                                               |                     | 贪心,数学                                              | java     |
 | POJ        | 1182             | 食物链                                                       | 并查集              |                                               |          |
 | POJ        | 1804             | Brainman                                                     |                     | 归并排序                                      | java     |
 | POJ        | 1852             | Ants                                                         |                     |                                               | cpp      |
