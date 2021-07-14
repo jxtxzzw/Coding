@@ -1,24 +1,22 @@
-class Solution {
-    public boolean isValid(String s) {
-        final HashMap<Character, Character> map = new HashMap<>();
-        map.put(')', '(');
-        map.put(']', '[');
-        map.put('}', '{');
-
-        Stack<Character> stack = new Stack<>();
-        for (int i = 0; i < s.length(); i++) {
-            Character c = s.charAt(i);
-            if (map.containsValue(c)) {
-                stack.push(c);
+public boolean isValid(String s) {
+    Stack<Character> stack = new Stack<>();
+    for (char c : s.toCharArray()) {
+        if (stack.isEmpty()) {
+            stack.push(c);
+        } else if (c == '(' || c == '[' || c == '{') {
+            stack.push(c);
+        } else {
+            char top = stack.peek();
+            if (c == ')' && top == '(') {
+                stack.pop();
+            } else if (c == '}' && top == '{') {
+                stack.pop();
+            } else if (c == ']' && top == '[') {
+                stack.pop();
             } else {
-                if (!stack.isEmpty() && stack.peek().equals(map.get(c))) {
-                    stack.pop();
-                } else {
-                    return false;
-                }
+                break;
             }
         }
-        return stack.isEmpty();
-
     }
+    return stack.isEmpty();
 }
