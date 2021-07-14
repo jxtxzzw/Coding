@@ -18,23 +18,23 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 508 题 (records in total)
+共有记录 509 题 (records in total)
 
 + CodeForces: 8
 + CSU: 1
 + EOJ: 196
 + HDU: 16
-+ LeetCode: 197
++ LeetCode: 198
 + POJ: 13
 + UVa: 6
 + ZOJ: 1
 + 计蒜客: 68
 + 洛谷: 2
 
-目前已整理代码 428 题 (with code and tags)
+目前已整理代码 429 题 (with code and tags)
 
 + 172 题使用 C/C++ 编写 (solved with C/C++)
-+ 248 题使用 Java 编写 (solved with Java)
++ 249 题使用 Java 编写 (solved with Java)
 + 1 题使用 Kotlin 编写 (solved with Kotlin) 
 + 1 题使用 Python 编写 (solved with Python) 
 + 5 题使用 Javascript 编写 (solved with Javascript) 
@@ -400,6 +400,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 706              | Design HashMap                                               |                     |                                               | java     |
 | LeetCode   | 714              | Best Time to Buy and Sell Stock with Transaction Fee         |                     | 动态规划                                      | java     |
 | LeetCode   | 717              | 1-bit and 2-bit Characters                                   |                     |                                               |          |
+| LeetCode   | 718              | Maximum Length of Repeated Subarray                          |                     | 动态规划                                              | java     |
 | LeetCode   | 733              | Flood Fill                                                   |                     | 深度优先搜索                                  | java     |
 | LeetCode   | 739              | 每日温度                                                     | 栈                  |                                               | java     |
 | LeetCode   | 754              | Reach a Number                                               |                     |                                               | java     |
