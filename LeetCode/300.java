@@ -1,46 +1,45 @@
-/* 方法 1 */
-
 class Solution {
     public int lengthOfLIS(int[] nums) {
+        return lengthOfLIS_02(nums);
+    }
+    
+    public int lengthOfLIS_01(int[] nums) {
         int[] dp = new int[nums.length];
         for (int i = 0; i < nums.length; i++) {
             dp[i] = 1;
         }
         for (int i = 0; i < nums.length; i++) {
-            for (int j = 0; j < i; j++) {
+            for (int j = 0; j < i; j++) { // this is i, not nums.length
                 if (nums[i] > nums[j]) {
                     dp[i] = Math.max(dp[i], dp[j] + 1);
                 }
             }
         }
-        int ans = 0;
+        int max = 0;
         for (int i = 0; i < nums.length; i++) {
-            ans = Math.max(ans, dp[i]);
+            max = Math.max(max, dp[i]);
         }
-        return ans;
+        return max;
     }
-}
 
-/* 方法 2 */
-
-class Solution {
-    public int lengthOfLIS(int[] nums) {
-        if (nums.length == 0) {
-            return 0;
-        }
-        ArrayList<Integer> dp = new ArrayList<>();
-        dp.add(nums[0]);
-        for (int i = 1; i < nums.length; i++) {
-            if (dp.get(dp.size() - 1) < nums[i]) {
-                dp.add(nums[i]);
-            } else {
-                int searchResult = Collections.binarySearch(dp, nums[i]);
-                if (searchResult < 0) {
-                    int insertionPoint = -(searchResult + 1);
-                    dp.set(insertionPoint, nums[i]);
+    public int lengthOfLIS_02(int[] nums) {
+        int[] tails = new int[nums.length];
+        int ans = 0;
+        for (int d : nums) {
+            int l = 0, r = ans;
+            while (l < r) {
+                int mid = (l + r) / 2;
+                if (d > tails[mid]) {
+                    l = mid + 1;
+                } else {
+                    r = mid;
                 }
             }
+            tails[l] = d;
+            if (r == ans) {
+                ans++;
+            }
         }
-        return dp.size();
+        return ans;
     }
 }
