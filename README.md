@@ -18,23 +18,23 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 509 题 (records in total)
+共有记录 510 题 (records in total)
 
 + CodeForces: 8
 + CSU: 1
 + EOJ: 196
 + HDU: 16
-+ LeetCode: 198
++ LeetCode: 199
 + POJ: 13
 + UVa: 6
 + ZOJ: 1
 + 计蒜客: 68
 + 洛谷: 2
 
-目前已整理代码 429 题 (with code and tags)
+目前已整理代码 433 题 (with code and tags)
 
 + 172 题使用 C/C++ 编写 (solved with C/C++)
-+ 249 题使用 Java 编写 (solved with Java)
++ 253 题使用 Java 编写 (solved with Java)
 + 1 题使用 Kotlin 编写 (solved with Kotlin) 
 + 1 题使用 Python 编写 (solved with Python) 
 + 5 题使用 Javascript 编写 (solved with Javascript) 
@@ -269,12 +269,12 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | HDU        | 6152             | Friend-Graph                                                 |                     |                                               | cpp      |
 | HDU        | 6154             | CaoHaha's staff                                              |                     |                                               | java     |
 | HDU        | 6170             | Two strings                                                  |                     | 动态规划,正则表达式                           | java     |
-| LeetCode   | 1                | Two Sum                                                      | 表                  | 哈希                                          |          |
+| LeetCode   | 1                | Two Sum                                                      | 表                  | 哈希                                          | java     |
 | LeetCode   | 2                | Add Two Numbers                                              | 链表                |                                               | java     |
 | LeetCode   | 3                | Longest Substring Without Repeating Characters               | 滑动窗口            |                                               | java     |
 | LeetCode   | 5                | Longest Palindromic Substring                                |                     | 动态规划,最长回文子串,中心扩展                | java     |
-| LeetCode   | 7                | Reverse Integer                                              |                     |                                               |          |
-| LeetCode   | 9                | Palindrome Number                                            |                     |                                               |          |
+| LeetCode   | 7                | Reverse Integer                                              |                     |                                               | java     |
+| LeetCode   | 9                | Palindrome Number                                            |                     |                                               | java     |
 | LeetCode   | 11               | Container With Most Water                                    | 双指针              | 暴力                                          |          |
 | LeetCode   | 12               | Integer to Roman                                             |                     |                                               | java     |
 | LeetCode   | 17               | Letter Combinations of a Phone Number                        |                     | 递归                                              | java     |
@@ -323,7 +323,8 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 160              | Intersection of Two Linked Lists                             |                     | 双指针                                        | java     |
 | LeetCode   | 162              | Find Peak Element                                            |                     | 二分查找                                        | java     |
 | LeetCode   | 164              | Maximum Gap                                                  |                     | 桶排序                                        | java     |
-| LeetCode   | 169              | Majority Element                                             |                     | 摩尔投票法                                    | java     |
+| LeetCode   | 168              | Excel Sheet Column Title                                     |                     |                                          | java     |
+| LeetCode   | 169              | Majority Element                                             |                     | 摩尔投票法                                         | java     |
 | LeetCode   | 173              | Binary Search Tree Iterator                                  | 栈                  |                                               | java     |
 | LeetCode   | 175              | 组合两个表                                                   | 数据库              | 外连接                                        | sql      |
 | LeetCode   | 179              | Largest Number                                               |                     | 贪心                                          | java     |
