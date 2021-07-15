@@ -18,23 +18,23 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 511 题 (records in total)
+共有记录 512 题 (records in total)
 
 + CodeForces: 8
 + CSU: 1
 + EOJ: 196
 + HDU: 16
-+ LeetCode: 200
++ LeetCode: 201
 + POJ: 13
 + UVa: 6
 + ZOJ: 1
 + 计蒜客: 68
 + 洛谷: 2
 
-目前已整理代码 434 题 (with code and tags)
+目前已整理代码 435 题 (with code and tags)
 
 + 172 题使用 C/C++ 编写 (solved with C/C++)
-+ 254 题使用 Java 编写 (solved with Java)
++ 255 题使用 Java 编写 (solved with Java)
 + 1 题使用 Kotlin 编写 (solved with Kotlin) 
 + 1 题使用 Python 编写 (solved with Python) 
 + 5 题使用 Javascript 编写 (solved with Javascript) 
@@ -285,6 +285,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 25               | K 个一组翻转链表                                             | 链表                |                                               | java     |
 | LeetCode   | 32               | Longest Valid Parentheses                                    | 栈                  | 动态规划,贪心                                 | java     |
 | LeetCode   | 33               | Search in Rotated Sorted Array                               |                     | 二分                                          | java     |
+| LeetCode   | 36               | Valid Sudoku                                                 |                     |                                           | java     |
 | LeetCode   | 45               | 跳跃游戏 II                                                  |                     | 贪心                                          | java     |
 | LeetCode   | 47               | Permutations II                                              |                     | 回溯                                          | java     |
 | LeetCode   | 50               | Pow(x, n)                                                    |                     | 分治,快速幂                                   | java     |
