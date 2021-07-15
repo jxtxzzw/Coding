@@ -18,23 +18,23 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 510 题 (records in total)
+共有记录 511 题 (records in total)
 
 + CodeForces: 8
 + CSU: 1
 + EOJ: 196
 + HDU: 16
-+ LeetCode: 199
++ LeetCode: 200
 + POJ: 13
 + UVa: 6
 + ZOJ: 1
 + 计蒜客: 68
 + 洛谷: 2
 
-目前已整理代码 433 题 (with code and tags)
+目前已整理代码 434 题 (with code and tags)
 
 + 172 题使用 C/C++ 编写 (solved with C/C++)
-+ 253 题使用 Java 编写 (solved with Java)
++ 254 题使用 Java 编写 (solved with Java)
 + 1 题使用 Kotlin 编写 (solved with Kotlin) 
 + 1 题使用 Python 编写 (solved with Python) 
 + 5 题使用 Javascript 编写 (solved with Javascript) 
@@ -332,6 +332,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 198              | 打家劫舍                                                     |                     | 动态规划                                      | cpp      |
 | LeetCode   | 199              | Binary Tree Right Side View                                  | 二叉树              | 广度优先搜索                                  | java     |
 | LeetCode   | 200              | Number of Islands                                            |                     | 深度优先搜索                                  | java     |
+| LeetCode   | 202              | Happy Number                                                 |                     |                                    | java     |
 | LeetCode   | 205              | Isomorphic Strings                                           | 哈希表              |                                               | java     |
 | LeetCode   | 208              | 实现Trie（前缀树）                                           | 前缀树              |                                               | java     |
 | LeetCode   | 212              | 单词搜索 II                                                  | 前缀树              | 深度优先搜索                                  | java     |
