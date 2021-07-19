@@ -362,6 +362,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 328              | Odd Even Linked List                                         |                     |                                               | java     |
 | LeetCode   | 334              | Increasing Triplet Subsequence                               |                     |                                               | java     |
 | LeetCode   | 337              | House Robber III                                             | 二叉树              | 递归,动态规划                                 | java     |
+| LeetCode   | 347              | Top K Frequent Elements                                      | 堆                  |                                               | java     |
 | LeetCode   | 367              | Valid Perfect Square                                         |                     |                                               | js       |
 | LeetCode   | 376              | Wiggle Subsequence                                           |                     | 贪心                                          | java     |
 | LeetCode   | 378              | Kth Smallest Element in a Sorted Matrix                      |                     | 二分查找                                      | java     |
