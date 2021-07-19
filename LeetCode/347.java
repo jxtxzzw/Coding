@@ -1,5 +1,5 @@
 class Solution {
-    public List<Integer> topKFrequent(int[] nums, int k) {
+    public int[] topKFrequent(int[] nums, int k) {
         HashMap<Integer, Integer> map = new HashMap<>();
          for (int num : nums ) {
              map.put(num, map.getOrDefault(num, 0) + 1);
@@ -20,8 +20,12 @@ class Solution {
          }
 
 
-         List<Integer> list = new ArrayList<>(pq);
-         Collections.reverse(list);
-         return list;
+         
+         int i = 0;
+         int[] ans = new int[k];
+         for (int x : pq) {
+             ans[i++] = x;             
+         }
+         return ans;
     }
 }
