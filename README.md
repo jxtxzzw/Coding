@@ -31,10 +31,10 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 + 计蒜客: 68
 + 洛谷: 2
 
-目前已整理代码 439 题 (with code and tags)
+目前已整理代码 441 题 (with code and tags)
 
 + 172 题使用 C/C++ 编写 (solved with C/C++)
-+ 259 题使用 Java 编写 (solved with Java)
++ 261 题使用 Java 编写 (solved with Java)
 + 1 题使用 Kotlin 编写 (solved with Kotlin) 
 + 1 题使用 Python 编写 (solved with Python) 
 + 5 题使用 Javascript 编写 (solved with Javascript) 
@@ -445,8 +445,8 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 983              | Minimum Cost For Tickets                                     |                     | 动态规划                                      | java     |
 | LeetCode   | 984              | String Without AAA or BBB                                    |                     | 贪心                                          |          |
 | LeetCode   | 986b             | Interval List Intersections                                  |                     |                                               | java     |
-| LeetCode   | 989              | Add to Array-Form of Integer                                 |                     |                                               |          |
-| LeetCode   | 991              | Broken Calculator                                            |                     | 贪心                                          |          |
+| LeetCode   | 989              | Add to Array-Form of Integer                                 |                     |                                               | java     |
+| LeetCode   | 991              | Broken Calculator                                            |                     | 贪心                                          | java     |
 | LeetCode   | 993              | Cousins in Binary Tree                                       |                     |                                               | java     |
 | LeetCode   | 997              | Find the Town Judge                                          | 图的入度和出度      |                                               | java     |
 | LeetCode   | 1004             | Max Consecutive Ones III                                     |                     | 贪心,滑动窗口,双指针                          | java     |
