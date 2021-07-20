@@ -1,7 +1,7 @@
 class Solution {
 
-    private Trie trie = new Trie(); // 前缀树
-    private HashSet<String> result = new HashSet<>(); // 用 Set 避免重复添加（去重）
+    private final Trie trie = new Trie(); // 前缀树
+    private final HashSet<String> result = new HashSet<>(); // 用 Set 避免重复添加（去重）
 
     public List<String> findWords(char[][] board, String[] words) {
         for (String word : words) {
@@ -28,10 +28,11 @@ class Solution {
             // 如果没访问过当前位置，设置为已访问（置空格），然后 append 到 prefix（prefix += c）
             board[i][j] = ' ';
             prefix += c;
+            TireNode n = trie.startsWith(prefix);
             // 如果存在前缀，继续，否则没必要往下了，直接 return
-            if (trie.startsWith(prefix)) {
+            if (n != null) {
                 // 如果该前缀恰好也是一个单词的结束，则加入 result
-                if (trie.search(prefix)) {
+                if (n.isEnd()) {
                     result.add(prefix);
                 }
                 // 深搜
@@ -48,7 +49,7 @@ class Solution {
 
 class Trie {
 
-    private TireNode root;
+    private final TireNode root;
 
     /**
      * Initialize your data structure here.
@@ -69,7 +70,7 @@ class Trie {
             }
             node = node.get(c);
         }
-        node.setEnd();
+        node.setEnd(word);
     }
 
     /**
@@ -91,35 +92,35 @@ class Trie {
     /**
      * Returns if there is any word in the trie that starts with the given prefix.
      */
-    public boolean startsWith(String prefix) {
+    public TireNode startsWith(String prefix) {
         TireNode node = root;
         for (int i = 0; i < prefix.length(); i++) {
             char c = prefix.charAt(i);
             if (node.contains(c)) {
                 node = node.get(c);
             } else {
-                return false;
+                return null;
             }
         }
-        return true;
+        return node;
     }
 }
 
 class TireNode {
-    private HashMap<Character, TireNode> links;
-    private boolean end;
+    private final HashMap<Character, TireNode> links;
+    private String word;
 
     public TireNode() {
         links = new HashMap<>();
-        end = false;
+        word = null;
     }
 
     public boolean isEnd() {
-        return end;
+        return word != null;
     }
 
-    public void setEnd() {
-        end = true;
+    public void setEnd(String word) {
+        this.word = word;
     }
 
     public TireNode get(char c) {
