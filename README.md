@@ -18,23 +18,23 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 515 题 (records in total)
+共有记录 516 题 (records in total)
 
 + CodeForces: 8
 + CSU: 1
 + EOJ: 196
 + HDU: 16
-+ LeetCode: 204
++ LeetCode: 205
 + POJ: 13
 + UVa: 6
 + ZOJ: 1
 + 计蒜客: 68
 + 洛谷: 2
 
-目前已整理代码 438 题 (with code and tags)
+目前已整理代码 439 题 (with code and tags)
 
 + 172 题使用 C/C++ 编写 (solved with C/C++)
-+ 258 题使用 Java 编写 (solved with Java)
++ 259 题使用 Java 编写 (solved with Java)
 + 1 题使用 Kotlin 编写 (solved with Kotlin) 
 + 1 题使用 Python 编写 (solved with Python) 
 + 5 题使用 Javascript 编写 (solved with Javascript) 
@@ -369,6 +369,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 378              | Kth Smallest Element in a Sorted Matrix                      |                     | 二分查找                                      | java     |
 | LeetCode   | 382              | Linked List Random Node                                      |                     |                                               |          |
 | LeetCode   | 383              | Ransom Note                                                  | 哈希表              |                                               | js       |
+| LeetCode   | 384              | Shuffle an Array                                             |                     | Knuth Shuffle                                 | java     |
 | LeetCode   | 387              | First Unique Character in a String                           |                     |                                               | java     |
 | LeetCode   | 394              | Decode String                                                |                     |                                               | java     |
 | LeetCode   | 395              | Longest Substring with At Least K Repeating Characters       | 哈希表              | 递归                                          | kt       |
