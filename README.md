@@ -18,23 +18,23 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 516 题 (records in total)
+共有记录 517 题 (records in total)
 
 + CodeForces: 8
 + CSU: 1
 + EOJ: 196
 + HDU: 16
-+ LeetCode: 205
++ LeetCode: 206
 + POJ: 13
 + UVa: 6
 + ZOJ: 1
 + 计蒜客: 68
 + 洛谷: 2
 
-目前已整理代码 441 题 (with code and tags)
+目前已整理代码 442 题 (with code and tags)
 
 + 172 题使用 C/C++ 编写 (solved with C/C++)
-+ 261 题使用 Java 编写 (solved with Java)
++ 262 题使用 Java 编写 (solved with Java)
 + 1 题使用 Kotlin 编写 (solved with Kotlin) 
 + 1 题使用 Python 编写 (solved with Python) 
 + 5 题使用 Javascript 编写 (solved with Javascript) 
@@ -420,6 +420,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 820              | Short Encoding of Words                                      | 字典树              | 贪心                                          | java     |
 | LeetCode   | 821              | Shortest Distance to a Character                             |                     | 贪心                                          | java     |
 | LeetCode   | 823              | Binary Trees With Factors                                    |                     | 动态规划                                      | java     |
+| LeetCode   | 838              | Push Dominoes                                                |                     | 贪心                                          | java     |
 | LeetCode   | 841              | Keys and Rooms                                               |                     | 广度优先搜索                                  | java     |
 | LeetCode   | 844              | 比较含退格的字符串                                           | 栈                  | 双指针                                        | c        |
 | LeetCode   | 845              | Longest Mountain in Array                                    |                     | 双指针                                        | java     |
