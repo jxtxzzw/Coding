@@ -31,10 +31,10 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 + 计蒜客: 68
 + 洛谷: 2
 
-目前已整理代码 442 题 (with code and tags)
+目前已整理代码 444 题 (with code and tags)
 
 + 172 题使用 C/C++ 编写 (solved with C/C++)
-+ 262 题使用 Java 编写 (solved with Java)
++ 264 题使用 Java 编写 (solved with Java)
 + 1 题使用 Kotlin 编写 (solved with Kotlin) 
 + 1 题使用 Python 编写 (solved with Python) 
 + 5 题使用 Javascript 编写 (solved with Javascript) 
@@ -426,7 +426,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 845              | Longest Mountain in Array                                    |                     | 双指针                                        | java     |
 | LeetCode   | 856              | Score of Parentheses                                         |                     | 贪心,数学                                     | java     |
 | LeetCode   | 858              | Mirror Reflection                                            |                     |                                               | java     |
-| LeetCode   | 860              | Lemonade Change                                              |                     | 贪心                                          |          |
+| LeetCode   | 860              | Lemonade Change                                              |                     | 贪心                                          | java     |
 | LeetCode   | 865              | Smallest Subtree with all the Deepest Nodes                  |                     | 递归,记忆化搜索                               | java     |
 | LeetCode   | 869              | Reordered Power of 2                                         |                     |                                               | java     |
 | LeetCode   | 880              | Decoded String at Index                                      |                     | 递归,余数                                     | java     |
@@ -444,7 +444,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 974              | Subarray Sums Divisible by K                                 |                     | 前缀和,差分                                   |          |
 | LeetCode   | 977              | Squares of a Sorted Array                                    |                     | 双指针                                        | java     |
 | LeetCode   | 983              | Minimum Cost For Tickets                                     |                     | 动态规划                                      | java     |
-| LeetCode   | 984              | String Without AAA or BBB                                    |                     | 贪心                                          |          |
+| LeetCode   | 984              | String Without AAA or BBB                                    |                     | 贪心                                          | java     |
 | LeetCode   | 986b             | Interval List Intersections                                  |                     |                                               | java     |
 | LeetCode   | 989              | Add to Array-Form of Integer                                 |                     |                                               | java     |
 | LeetCode   | 991              | Broken Calculator                                            |                     | 贪心                                          | java     |
