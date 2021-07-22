@@ -433,6 +433,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 880              | Decoded String at Index                                      |                     | 递归,余数                                     | java     |
 | LeetCode   | 881              | Boats to Save People                                         | 双指针              | 贪心                                          | java     |
 | LeetCode   | 890              | Find and Replace Pattern                                     | 哈希表              |                                               | java     |
+| LeetCode   | 895              | Maximum Frequency Stack                                      | 栈,哈希表           |                                               | java     |
 | LeetCode   | 897              | Increasing Order Search Tree                                 | 二叉搜索树          | 递归                                          | java     |
 | LeetCode   | 901              | Online Stock Span                                            | 栈                  |                                               | java     |
 | LeetCode   | 902              | Numbers At Most N Given Digit Set                            |                     | 数位DP,数学,进制转换,贪心                     | java     |
