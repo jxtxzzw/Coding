@@ -18,23 +18,23 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 523 题 (records in total)
+共有记录 524 题 (records in total)
 
 + CodeForces: 8
 + CSU: 1
 + EOJ: 196
 + HDU: 16
-+ LeetCode: 212
++ LeetCode: 213
 + POJ: 13
 + UVa: 6
 + ZOJ: 1
 + 计蒜客: 68
 + 洛谷: 2
 
-目前已整理代码 452 题 (with code and tags)
+目前已整理代码 453 题 (with code and tags)
 
 + 172 题使用 C/C++ 编写 (solved with C/C++)
-+ 272 题使用 Java 编写 (solved with Java)
++ 273 题使用 Java 编写 (solved with Java)
 + 1 题使用 Kotlin 编写 (solved with Kotlin) 
 + 1 题使用 Python 编写 (solved with Python) 
 + 5 题使用 Javascript 编写 (solved with Javascript) 
@@ -397,8 +397,9 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 576              | Out of Boundary Paths                                        |                     | 动态规划                                      | java     |
 | LeetCode   | 593              | Valid Square                                                 |                     |                                               | java     |
 | LeetCode   | 594              | Longest Harmonious Subsequence                               | 哈希表              | 贪心                                          | java     |
+| LeetCode   | 600              | Non-negative Integers without Consecutive Ones               |                     | 数学,位运算                                   | java     |
 | LeetCode   | 605              | Can Place Flowers                                            |                     | 贪心,数学                                     | java     |
-| LeetCode   | 611              | Valid Triangle Number                                        |                     | 二分查找,线性扫描                                     | java     |
+| LeetCode   | 611              | Valid Triangle Number                                        |                     | 二分查找,线性扫描                              | java     |
 | LeetCode   | 637              | Average of Levels in Binary Tree                             |                     |                                               | java     |
 | LeetCode   | 639              | Decode Ways II                                               |                     | 动态规划                                      | java     |
 | LeetCode   | 645              | Set Mismatch                                                 |                     | 位运算                                        | java     |
