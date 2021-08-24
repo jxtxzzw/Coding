@@ -280,6 +280,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 11               | Container With Most Water                                    | 双指针              | 暴力                                          |          |
 | LeetCode   | 12               | Integer to Roman                                             |                     |                                               | java     |
 | LeetCode   | 13               | Roman to Integer                                             |                     |                                               | java     |
+| LeetCode   | 14               | Longest Common Prefix                                        |                     | 二分                                           | java     |
 | LeetCode   | 15               | 3Sum                                                         |                     |                                               | java     |
 | LeetCode   | 17               | Letter Combinations of a Phone Number                        |                     | 递归                                              | java     |
 | LeetCode   | 18               | 4Sum                                                         |                     |                                              | java      |
