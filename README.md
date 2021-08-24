@@ -18,23 +18,23 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 533 题 (records in total)
+共有记录 534 题 (records in total)
 
 + CodeForces: 8
 + CSU: 1
 + EOJ: 196
 + HDU: 16
-+ LeetCode: 222
++ LeetCode: 223
 + POJ: 13
 + UVa: 6
 + ZOJ: 1
 + 计蒜客: 68
 + 洛谷: 2
 
-目前已整理代码 462 题 (with code and tags)
+目前已整理代码 463 题 (with code and tags)
 
 + 172 题使用 C/C++ 编写 (solved with C/C++)
-+ 282 题使用 Java 编写 (solved with Java)
++ 283 题使用 Java 编写 (solved with Java)
 + 1 题使用 Kotlin 编写 (solved with Kotlin) 
 + 1 题使用 Python 编写 (solved with Python) 
 + 5 题使用 Javascript 编写 (solved with Javascript) 
@@ -303,6 +303,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 59               | Spiral Matrix II                                             |                     |                                               | java     |
 | LeetCode   | 62               | 不同路径                                                     |                     | 动态规划                                      | java     |
 | LeetCode   | 64               | Minimum Path                                                 |                     | 动态规划                                      | java     |
+| LeetCode   | 65               | Valid Number                                                 |                     |                                             | java   |
 | LeetCode   | 66               | Plus One                                                     |                     |                                       | java        |
 | LeetCode   | 70               | 爬楼梯                                                       |                     | 动态规划                                      | java     |
 | LeetCode   | 71               | Simplify Path                                                | 栈                  |                                               | java     |
