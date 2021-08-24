@@ -18,23 +18,23 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 530 题 (records in total)
+共有记录 532 题 (records in total)
 
 + CodeForces: 8
 + CSU: 1
 + EOJ: 196
 + HDU: 16
-+ LeetCode: 219
++ LeetCode: 221
 + POJ: 13
 + UVa: 6
 + ZOJ: 1
 + 计蒜客: 68
 + 洛谷: 2
 
-目前已整理代码 459 题 (with code and tags)
+目前已整理代码 461 题 (with code and tags)
 
 + 172 题使用 C/C++ 编写 (solved with C/C++)
-+ 279 题使用 Java 编写 (solved with Java)
++ 281 题使用 Java 编写 (solved with Java)
 + 1 题使用 Kotlin 编写 (solved with Kotlin) 
 + 1 题使用 Python 编写 (solved with Python) 
 + 5 题使用 Javascript 编写 (solved with Javascript) 
@@ -275,6 +275,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 5                | Longest Palindromic Substring                                |                     | 动态规划,最长回文子串,中心扩展                | java     |
 | LeetCode   | 6                | ZigZag Conversion                                            |                     |                                               | java     |
 | LeetCode   | 7                | Reverse Integer                                              |                     |                                               | java     |
+| LeetCode   | 8                | String to Integer (atoi)                                     |                     |                                               | java     |
 | LeetCode   | 9                | Palindrome Number                                            |                     |                                               | java     |
 | LeetCode   | 11               | Container With Most Water                                    | 双指针              | 暴力                                          |          |
 | LeetCode   | 12               | Integer to Roman                                             |                     |                                               | java     |
@@ -485,6 +486,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 1492             | The kth Factor of n                                          |                     |                                               | java     |
 | LeetCode   | 1539             | Kth Missing Positive Number                                  |                     |                                               | c        |
 | LeetCode   | 1430             | Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree |                     |                                               | java     |
+| LeetCode   | 1448             | Count Good Nodes in Binary Tree                              |                     |                                              | java     | 
 | LeetCode   | 1461             | Check If a String Contains All Binary Codes of Size K        |                     | 滑动窗口,哈希                                 | java     |
 | LeetCode   | 1646             | Get Maximum in Generated Array                               |                     |                                               | java     |
 | LeetCode   | 1658             | Minimum Operations to Reduce X to Zero                       |                     | 贪心,双指针,滑动窗口                          | java     |
