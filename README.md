@@ -18,23 +18,23 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 536 题 (records in total)
+共有记录 539 题 (records in total)
 
 + CodeForces: 8
 + CSU: 1
 + EOJ: 196
 + HDU: 16
-+ LeetCode: 225
++ LeetCode: 228
 + POJ: 13
 + UVa: 6
 + ZOJ: 1
 + 计蒜客: 68
 + 洛谷: 2
 
-目前已整理代码 465 题 (with code and tags)
+目前已整理代码 468 题 (with code and tags)
 
 + 172 题使用 C/C++ 编写 (solved with C/C++)
-+ 285 题使用 Java 编写 (solved with Java)
++ 288 题使用 Java 编写 (solved with Java)
 + 1 题使用 Kotlin 编写 (solved with Kotlin) 
 + 1 题使用 Python 编写 (solved with Python) 
 + 5 题使用 Javascript 编写 (solved with Javascript) 
@@ -284,11 +284,13 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 15               | 3Sum                                                         |                     |                                               | java     |
 | LeetCode   | 17               | Letter Combinations of a Phone Number                        |                     | 递归                                              | java     |
 | LeetCode   | 18               | 4Sum                                                         |                     |                                              | java      |
+| LeetCode   | 19               | Remove Nth Node From End of List                            | 链表                | 双指针                                         | java     |
 | LeetCode   | 20               | 有效的括号                                                   | 栈                  |                                               | java     |
 | LeetCode   | 21               | Merge Two Sorted Lists                                       | 链表                | 归并排序                                      | c        |
 | LeetCode   | 22               | Generate Parentheses                                         |                     | 动态规划                                      | java     |
 | LeetCode   | 24               | Swap Nodes in Pairs                                          | 链表                |                                               | c        |
 | LeetCode   | 25               | K 个一组翻转链表                                             | 链表                |                                               | java     |
+| LeetCode   | 26               | Remove Duplicates from Sorted Array                          |                     |                                               | java     |
 | LeetCode   | 28               | Merge k Sorted Lists                                         | 链表                |                                               | java     |
 | LeetCode   | 32               | Longest Valid Parentheses                                    | 栈                  | 动态规划,贪心                                 | java     |
 | LeetCode   | 33               | Search in Rotated Sorted Array                               |                     | 二分                                          | java     |
@@ -296,6 +298,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 45               | 跳跃游戏 II                                                  |                     | 贪心                                          | java     |
 | LeetCode   | 47               | Permutations II                                              |                     | 回溯                                          | java     |
 | LeetCode   | 50               | Pow(x, n)                                                    |                     | 分治,快速幂                                   | java     |
+| LeetCode   | 51               | N-Queens                                                    |                     | 回溯                                         | java      |
 | LeetCode   | 53               | 最大子序和                                                   |                     | 动态规划                                      | js       |
 | LeetCode   | 55               | Jump Game                                                    |                     | 贪心                                          | java     |
 | LeetCode   | 56               | Merge Intervals                                              |                     |                                               | js       |
