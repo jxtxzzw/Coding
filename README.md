@@ -18,25 +18,25 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 545 题 (records in total)
+共有记录 546 题 (records in total)
 
 + CodeForces: 8
 + CSU: 1
 + EOJ: 196
 + HDU: 16
-+ LeetCode: 234
++ LeetCode: 235
 + POJ: 13
 + UVa: 6
 + ZOJ: 1
 + 计蒜客: 68
 + 洛谷: 2
 
-目前已整理代码 472 题 (with code and tags)
+目前已整理代码 473 题 (with code and tags)
 
 + 172 题使用 C/C++ 编写 (solved with C/C++)
 + 294 题使用 Java 编写 (solved with Java)
 + 1 题使用 Kotlin 编写 (solved with Kotlin) 
-+ 1 题使用 Python 编写 (solved with Python) 
++ 2 题使用 Python 编写 (solved with Python) 
 + 5 题使用 Javascript 编写 (solved with Javascript) 
 + 1 题使用 SQL 编写 (solved with SQL) 
 + 0 题使用 Racket 编写 (solved with Racket) 
@@ -408,6 +408,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 540              | Single Element in a Sorted Array                             |                     | 二分查找                                      | java     |
 | LeetCode   | 556              | Next Greater Element III                                     |                     |                                               | java     |
 | LeetCode   | 561              | Array Partition I                                            |                     | 贪心                                          | java     |
+| LeetCode   | 565              | Array Nesting                                                |                     |                                               | py       |
 | LeetCode   | 566              | Reshape the Matrix                                           |                     |                                               | java     |
 | LeetCode   | 567              | Permutation in String                                        |                     | 滑动窗口                                      | java     |
 | LeetCode   | 575              | Distribute Candies                                           |                     |                                               | java     |
