@@ -18,23 +18,23 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 547 题 (records in total)
+共有记录 5478
 
 + CodeForces: 8
 + CSU: 1
 + EOJ: 196
 + HDU: 16
-+ LeetCode: 236
++ LeetCode: 237
 + POJ: 13
 + UVa: 6
 + ZOJ: 1
 + 计蒜客: 68
 + 洛谷: 2
 
-目前已整理代码 474 题 (with code and tags)
+目前已整理代码 475 题 (with code and tags)
 
 + 172 题使用 C/C++ 编写 (solved with C/C++)
-+ 295 题使用 Java 编写 (solved with Java)
++ 296 题使用 Java 编写 (solved with Java)
 + 1 题使用 Kotlin 编写 (solved with Kotlin) 
 + 2 题使用 Python 编写 (solved with Python) 
 + 5 题使用 Javascript 编写 (solved with Javascript) 
@@ -460,6 +460,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 890              | Find and Replace Pattern                                     | 哈希表              |                                               | java     |
 | LeetCode   | 895              | Maximum Frequency Stack                                      | 栈,哈希表           |                                               | java     |
 | LeetCode   | 897              | Increasing Order Search Tree                                 | 二叉搜索树          | 递归                                          | java     |
+| LeetCode   | 899              | Orderly Queue                                                |                     | 贪心,数学                                     | java      |
 | LeetCode   | 901              | Online Stock Span                                            | 栈                  |                                               | java     |
 | LeetCode   | 902              | Numbers At Most N Given Digit Set                            |                     | 数位DP,数学,进制转换,贪心                     | java     |
 | LeetCode   | 910              | Smallest Range II                                            |                     |                                               | java     |
