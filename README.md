@@ -18,25 +18,25 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 5478
+共有记录 549
 
 + CodeForces: 8
 + CSU: 1
 + EOJ: 196
 + HDU: 16
-+ LeetCode: 237
++ LeetCode: 238
 + POJ: 13
 + UVa: 6
 + ZOJ: 1
 + 计蒜客: 68
 + 洛谷: 2
 
-目前已整理代码 475 题 (with code and tags)
+目前已整理代码 476 题 (with code and tags)
 
 + 172 题使用 C/C++ 编写 (solved with C/C++)
 + 296 题使用 Java 编写 (solved with Java)
 + 1 题使用 Kotlin 编写 (solved with Kotlin) 
-+ 2 题使用 Python 编写 (solved with Python) 
++ 3 题使用 Python 编写 (solved with Python) 
 + 5 题使用 Javascript 编写 (solved with Javascript) 
 + 1 题使用 SQL 编写 (solved with SQL) 
 + 0 题使用 Racket 编写 (solved with Racket) 
@@ -505,6 +505,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 1430             | Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree |                     |                                               | java     |
 | LeetCode   | 1448             | Count Good Nodes in Binary Tree                              |                     |                                              | java     | 
 | LeetCode   | 1461             | Check If a String Contains All Binary Codes of Size K        |                     | 滑动窗口,哈希                                 | java     |
+| LeetCode   | 1629             | Slowest Key                                                  | 哈希表               |                                               | py       | 
 | LeetCode   | 1646             | Get Maximum in Generated Array                               |                     |                                               | java     |
 | LeetCode   | 1658             | Minimum Operations to Reduce X to Zero                       |                     | 贪心,双指针,滑动窗口                          | java     |
 | LeetCode   | 1662             | Check If Two String Arrays are Equivalent                    |                     |                                               | java     |
