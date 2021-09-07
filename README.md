@@ -18,22 +18,22 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 549
+共有记录 550
 
 + CodeForces: 8
 + CSU: 1
 + EOJ: 196
 + HDU: 16
-+ LeetCode: 238
++ LeetCode: 239
 + POJ: 13
 + UVa: 6
 + ZOJ: 1
 + 计蒜客: 68
 + 洛谷: 2
 
-目前已整理代码 476 题 (with code and tags)
+目前已整理代码 477 题 (with code and tags)
 
-+ 172 题使用 C/C++ 编写 (solved with C/C++)
++ 173 题使用 C/C++ 编写 (solved with C/C++)
 + 296 题使用 Java 编写 (solved with Java)
 + 1 题使用 Kotlin 编写 (solved with Kotlin) 
 + 3 题使用 Python 编写 (solved with Python) 
@@ -351,6 +351,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 200              | Number of Islands                                            |                     | 深度优先搜索                                  | java     |
 | LeetCode   | 202              | Happy Number                                                 |                     |                                    | java     |
 | LeetCode   | 205              | Isomorphic Strings                                           | 哈希表              |                                               | java     |
+| LeetCode   | 206              | Reverse Linked List                                         | 链表                  |            |                                 | c         |
 | LeetCode   | 208              | 实现Trie（前缀树）                                           | 前缀树              |                                               | java     |
 | LeetCode   | 212              | 单词搜索 II                                                  | 前缀树              | 深度优先搜索                                  | java     |
 | LeetCode   | 218              | The Skyline Problem                                          |                     | 扫描线算法                                    | java     |
