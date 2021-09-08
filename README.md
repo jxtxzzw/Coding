@@ -18,22 +18,22 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 550
+共有记录 551
 
 + CodeForces: 8
 + CSU: 1
 + EOJ: 196
 + HDU: 16
-+ LeetCode: 239
++ LeetCode: 240
 + POJ: 13
 + UVa: 6
 + ZOJ: 1
 + 计蒜客: 68
 + 洛谷: 2
 
-目前已整理代码 477 题 (with code and tags)
+目前已整理代码 478 题 (with code and tags)
 
-+ 173 题使用 C/C++ 编写 (solved with C/C++)
++ 174 题使用 C/C++ 编写 (solved with C/C++)
 + 296 题使用 Java 编写 (solved with Java)
 + 1 题使用 Kotlin 编写 (solved with Kotlin) 
 + 3 题使用 Python 编写 (solved with Python) 
@@ -451,6 +451,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 841              | Keys and Rooms                                               |                     | 广度优先搜索                                  | java     |
 | LeetCode   | 844              | 比较含退格的字符串                                           | 栈                  | 双指针                                        | c        |
 | LeetCode   | 845              | Longest Mountain in Array                                    |                     | 双指针                                        | java     |
+| LeetCode   | 848              | Shifting Letters                                             |                     | 前缀和                               | c    |
 | LeetCode   | 856              | Score of Parentheses                                         |                     | 贪心,数学                                     | java     |
 | LeetCode   | 858              | Mirror Reflection                                            |                     |                                               | java     |
 | LeetCode   | 860              | Lemonade Change                                              |                     | 贪心                                          | java     |
