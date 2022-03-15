@@ -2,9 +2,10 @@
 # see https://docs.gitlab.com/ee/ci/yaml/README.html for all available options
 
 # you can delete this line if you're not using Docker
-image: node:latest
+image: node:10.19.0
 
 before_script:
+  - node --version
   - mkdir -vp ~/.ssh
   - eval $(ssh-agent -s)
   - echo "${HOST_NAME}","${HOST_KEY}" > ~/.ssh/known_hosts
