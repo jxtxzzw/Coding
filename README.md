@@ -370,7 +370,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 295              | 数据流的中位数                                               | 堆                  |                                               | java     |
 | LeetCode   | 300              | 最长上升子序列                                               |                     | 动态规划,贪心,二分                        | java     |
 | LeetCode   | 303              | Range Sum Query - Immutable                                  | 树状数组            |                                               | java     |
-| LeetCode   | 303              | Range Sum Query 2D - Immutable                               | 树状数组            |                                               | java     |
+| LeetCode   | 304              | Range Sum Query 2D - Immutable                               | 树状数组            |                                               | java     |
 | LeetCode   | 307              | Range Sum Query - Mutable                                    | 树状数组            |                                               | java     |
 | LeetCode   | 308              | Range Sum Query 2D - Mutable                                 | 树状数组            |                                               |          |
 | LeetCode   | 315              | Count of Smaller Numbers After Self                          | 树状数组            | 离散化                                        | java     |
