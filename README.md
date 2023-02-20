@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 551
+共有记录 552
 
 + CodeForces: 8
 + CSU: 1
@@ -28,13 +28,13 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 + POJ: 13
 + UVa: 6
 + ZOJ: 1
-+ 计蒜客: 68
++ 计蒜客: 69
 + 洛谷: 2
 
-目前已整理代码 478 题 (with code and tags)
+目前已整理代码 479 题 (with code and tags)
 
 + 174 题使用 C/C++ 编写 (solved with C/C++)
-+ 296 题使用 Java 编写 (solved with Java)
++ 297 题使用 Java 编写 (solved with Java)
 + 1 题使用 Kotlin 编写 (solved with Kotlin) 
 + 3 题使用 Python 编写 (solved with Python) 
 + 5 题使用 Javascript 编写 (solved with Javascript) 
@@ -601,5 +601,6 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | 计蒜客     | 最近点对         | 最近点对                                                     |                     | 分治                                          |          |
 | 计蒜客     | 最甜的苹果       | 最甜的苹果                                                   | 线段树              |                                               | cpp      |
 | 计蒜客     | 威虎山上的分配   | 威虎山上的分配                                               |                     | 拓扑排序                                      | cpp      |
+| 计蒜客     | 接龙            | 接龙                                                       |                     | 并查集                                       | java     |
 | 洛谷       | 1540             | 机器翻译                                                     | 队列                |                                               |          |
 | 洛谷       | 1638             | 逛画展                                                       | 队列,滑动窗口       | 贪心                                          |          |
