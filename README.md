@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 552
+共有记录 553
 
 + CodeForces: 8
 + CSU: 1
@@ -28,12 +28,12 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 + POJ: 13
 + UVa: 6
 + ZOJ: 1
-+ 计蒜客: 69
++ 计蒜客: 70
 + 洛谷: 2
 
-目前已整理代码 479 题 (with code and tags)
+目前已整理代码 480 题 (with code and tags)
 
-+ 174 题使用 C/C++ 编写 (solved with C/C++)
++ 175 题使用 C/C++ 编写 (solved with C/C++)
 + 297 题使用 Java 编写 (solved with Java)
 + 1 题使用 Kotlin 编写 (solved with Kotlin) 
 + 3 题使用 Python 编写 (solved with Python) 
@@ -351,7 +351,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 200              | Number of Islands                                            |                     | 深度优先搜索                                  | java     |
 | LeetCode   | 202              | Happy Number                                                 |                     |                                    | java     |
 | LeetCode   | 205              | Isomorphic Strings                                           | 哈希表              |                                               | java     |
-| LeetCode   | 206              | Reverse Linked List                                         | 链表                  |            |                                 | c         |
+| LeetCode   | 206              | Reverse Linked List                                         | 链表                  |            |                                 |
 | LeetCode   | 208              | 实现Trie（前缀树）                                           | 前缀树              |                                               | java     |
 | LeetCode   | 212              | 单词搜索 II                                                  | 前缀树              | 深度优先搜索                                  | java     |
 | LeetCode   | 218              | The Skyline Problem                                          |                     | 扫描线算法                                    | java     |
@@ -505,9 +505,9 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | LeetCode   | 1492             | The kth Factor of n                                          |                     |                                               | java     |
 | LeetCode   | 1539             | Kth Missing Positive Number                                  |                     |                                               | c        |
 | LeetCode   | 1430             | Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree |                     |                                               | java     |
-| LeetCode   | 1448             | Count Good Nodes in Binary Tree                              |                     |                                              | java     | 
+| LeetCode   | 1448             | Count Good Nodes in Binary Tree                              |                     |                                              | java     |
 | LeetCode   | 1461             | Check If a String Contains All Binary Codes of Size K        |                     | 滑动窗口,哈希                                 | java     |
-| LeetCode   | 1629             | Slowest Key                                                  | 哈希表               |                                               | py       | 
+| LeetCode   | 1629             | Slowest Key                                                  | 哈希表               |                                               | py       |
 | LeetCode   | 1646             | Get Maximum in Generated Array                               |                     |                                               | java     |
 | LeetCode   | 1658             | Minimum Operations to Reduce X to Zero                       |                     | 贪心,双指针,滑动窗口                          | java     |
 | LeetCode   | 1662             | Check If Two String Arrays are Equivalent                    |                     |                                               | java     |
@@ -601,6 +601,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | 计蒜客     | 最近点对         | 最近点对                                                     |                     | 分治                                          |          |
 | 计蒜客     | 最甜的苹果       | 最甜的苹果                                                   | 线段树              |                                               | cpp      |
 | 计蒜客     | 威虎山上的分配   | 威虎山上的分配                                               |                     | 拓扑排序                                      | cpp      |
-| 计蒜客     | 接龙            | 接龙                                                       |                     | 并查集                                       | java     |
+| 计蒜客     | 接龙            | 接龙                                                       | 并查集 |                                        | java     |
+| 计蒜客     | 蒜头君的期待       | 蒜头君的期待                                                | Treap,平衡树 |                                     | cpp     |
 | 洛谷       | 1540             | 机器翻译                                                     | 队列                |                                               |          |
 | 洛谷       | 1638             | 逛画展                                                       | 队列,滑动窗口       | 贪心                                          |          |
