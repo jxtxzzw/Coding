@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 575
+共有记录 603
 
 + CodeForces: 8
 + CSU: 1
@@ -30,13 +30,13 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 + ZOJ: 1
 + 计蒜客: 70
 + 洛谷: 2
-+ Coursera: 22
++ Coursera: 50
 
 目前已整理代码 480 题 (with code and tags)
 
 + 175 题使用 C/C++ 编写 (solved with C/C++)
 + 319 题使用 Java 编写 (solved with Java)
-+ 1 题使用 Kotlin 编写 (solved with Kotlin) 
++ 29 题使用 Kotlin 编写 (solved with Kotlin) 
 + 3 题使用 Python 编写 (solved with Python) 
 + 5 题使用 Javascript 编写 (solved with Javascript) 
 + 1 题使用 SQL 编写 (solved with SQL) 
@@ -613,7 +613,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | Coursera | RandomizedQueue | RandomizedQueue | 队列 |  | java |
 | Coursera | BruteCollinearPoints | BruteCollinearPoints |  | 排序 | java |
 | Coursera | FastCollinearPoints | FastCollinearPoints |  | 排序 | java |
-| Coursera | Board                | Board                                                        |  | A*算法,搜索 | java |
+| Coursera | Board                                    | Board                                                        |  | A*算法,搜索 | java |
 | Coursera | Solver | Solver |  | A*算法,搜索 | java |
 | Coursera | KdTree | KdTree |  | 搜索 | java |
 | Coursera | PointSET | PointSET |  | 搜索 | java |
@@ -628,4 +628,32 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | Coursera | BoggleSolver | BoggleSolver | 字典树,前缀树 | 搜索 | java |
 | Coursera | Trie | Trie | 字典树,前缀树 | 搜索 | java |
 | Coursera | TrieNode | TrieTrieNode | 字典树,前缀树 | 搜索 | java |
+| Coursera | Checking identifier | Checking identifier |  |  | kt |
+| Coursera | Sum as an extension function | Sum as an extension function |  |  | kt |
+| Coursera | NiceString | NiceString |  |  | kt |
+| Coursera | TaxiPark | TaxiPark |  |  | kt |
+| Coursera | TaxiParkTask | TaxiParkTask |  |  | kt |
+| Coursera | Checking whether string is null or empty | Checking whether string is null or empty |  |  | kt |
+| Coursera | Interchangeable predicates | Interchangeable predicates |  |  | kt |
+| Coursera | Safe cases | Safe cases |  |  | kt |
+| Coursera | Board | Board |  |  | kt |
+| Coursera | BoardImpl | BoardImpl |  |  | kt |
+| Coursera | Rational | Rational |  |  | kt |
+| Coursera | Equality | Equality |  |  | kt |
+| Coursera | NPE during initialization | NPE during initialization |  |  | kt |
+| Coursera | Unstable val | Unstable val |  |  | kt |
+| Coursera | Using lateinit property | Using lateinit property |  |  | kt |
+| Coursera | Games-Board | Games-Board |  |  | kt |
+| Coursera | Games-BoardImpl | Games-BoardImpl |  |  | kt |
+| Coursera | Game | Game |  |  | kt |
+| Coursera | Game2048 | Game2048 |  |  | kt |
+| Coursera | Game2048Helper | Game2048Helper |  |  | kt |
+| Coursera | Game2048Initializer | Game2048Initializer |  |  | kt |
+| Coursera | GameOfFifteen | GameOfFifteen |  |  | kt |
+| Coursera | GameOfFifteenHelper | GameOfFifteenHelper |  |  | kt |
+| Coursera | GameOfFifteenInitializer | GameOfFifteenInitializer |  |  | kt |
+| Coursera | Fibonacci sequence                       | Fibonacci sequence |  |  | kt |
+| Coursera | Inlining of the 'filter' function | Inlining of the 'filter' function |  |  | kt |
+| Coursera | Member extensions | Member extensions |  |  | kt |
+| Coursera | Working with auxiliary functions | Working with auxiliary functions |  |  | kt |
 
