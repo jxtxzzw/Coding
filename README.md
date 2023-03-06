@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 603
+共有记录 613
 
 + CodeForces: 8
 + CSU: 1
@@ -30,7 +30,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 + ZOJ: 1
 + 计蒜客: 70
 + 洛谷: 2
-+ Coursera: 50
++ Coursera: 60
 
 目前已整理代码 480 题 (with code and tags)
 
@@ -40,10 +40,10 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 + 3 题使用 Python 编写 (solved with Python) 
 + 5 题使用 Javascript 编写 (solved with Javascript) 
 + 1 题使用 SQL 编写 (solved with SQL) 
-+ 0 题使用 Racket 编写 (solved with Racket) 
-+ 0 题使用 Ruby 编写 (solved with Ruby) 
++ 2 题使用 Racket 编写 (solved with Racket) 
++ 2 题使用 Ruby 编写 (solved with Ruby) 
 + 0 题使用 Golang 编写 (solved with Golang) 
-+ 0 题使用 ML/SML/OCaml 编写 (solved with ML/SML/OCaml) 
++ 6 题使用 ML/SML/OCaml 编写 (solved with ML/SML/OCaml) 
 + 0 题使用 PHP 编写 (solved with PHP) 
 
 ---
@@ -656,4 +656,14 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | Coursera | Inlining of the 'filter' function | Inlining of the 'filter' function |  |  | kt |
 | Coursera | Member extensions | Member extensions |  |  | kt |
 | Coursera | Working with auxiliary functions | Working with auxiliary functions |  |  | kt |
+| Coursera | programming-languages-part-a-hw-1 | Programming Languages, Part A, HW 1 | | | sml |
+| Coursera | programming-languages-part-a-hw-1-test | Programming Languages, Part A, HW 1 (Test) | | | sml |
+| Coursera | programming-languages-part-a-hw-2 | Programming Languages, Part A, HW 2 | | | sml |
+| Coursera | programming-languages-part-a-hw-3 | Programming Languages, Part A, HW 3 | | | sml |
+| Coursera | programming-languages-part-a-hw-3-test | Programming Languages, Part A, HW 3 (Test) | | | sml |
+| Coursera | programming-languages-part-a-hw-4 | Programming Languages, Part B, HW 4 | | | rkt |
+| Coursera | programming-languages-part-a-hw-5 | Programming Languages, Part B, HW 5 | | | rkt |
+| Coursera | programming-languages-part-a-hw-6 | Programming Languages, Part C, HW 6 | | | rb |
+| Coursera | programming-languages-part-a-hw-7-sml | Programming Languages, Part C, HW 7, SML | | | sml |
+| Coursera | programming-languages-part-a-hw-7-rb | Programming Languages, Part C, HW 7, Ruby | | | rb |
 
