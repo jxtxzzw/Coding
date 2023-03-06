@@ -636,8 +636,8 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | Coursera | Checking whether string is null or empty | Checking whether string is null or empty |  |  | kt |
 | Coursera | Interchangeable predicates | Interchangeable predicates |  |  | kt |
 | Coursera | Safe cases | Safe cases |  |  | kt |
-| Coursera | Board | Board |  |  | kt |
-| Coursera | BoardImpl | BoardImpl |  |  | kt |
+| Coursera | Board-Kt | Board-Kt |  |  | kt |
+| Coursera | BoardImpl-Kt | BoardImpl-Kt |  |  | kt |
 | Coursera | Rational | Rational |  |  | kt |
 | Coursera | Equality | Equality |  |  | kt |
 | Coursera | NPE during initialization | NPE during initialization |  |  | kt |
