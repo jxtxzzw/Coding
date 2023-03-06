@@ -18,7 +18,7 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 
 ---
 
-共有记录 553
+共有记录 575
 
 + CodeForces: 8
 + CSU: 1
@@ -30,11 +30,12 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 + ZOJ: 1
 + 计蒜客: 70
 + 洛谷: 2
++ Coursera: 22
 
 目前已整理代码 480 题 (with code and tags)
 
 + 175 题使用 C/C++ 编写 (solved with C/C++)
-+ 297 题使用 Java 编写 (solved with Java)
++ 319 题使用 Java 编写 (solved with Java)
 + 1 题使用 Kotlin 编写 (solved with Kotlin) 
 + 3 题使用 Python 编写 (solved with Python) 
 + 5 题使用 Javascript 编写 (solved with Javascript) 
@@ -605,3 +606,26 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 | 计蒜客     | 蒜头君的期待       | 蒜头君的期待                                                | Treap,平衡树 |                                     | cpp     |
 | 洛谷       | 1540             | 机器翻译                                                     | 队列                |                                               |          |
 | 洛谷       | 1638             | 逛画展                                                       | 队列,滑动窗口       | 贪心                                          |          |
+| Coursera | Percolation | Percolation | 并查集 |  | java |
+| Coursera | PercolationStats | PercolationStats | 并查集 |  | java |
+| Coursera | Deque | Deque | 队列 |  | java |
+| Coursera | Permutation | Permutation | 队列 |  | java |
+| Coursera | RandomizedQueue | RandomizedQueue | 队列 |  | java |
+| Coursera | BruteCollinearPoints | BruteCollinearPoints |  | 排序 | java |
+| Coursera | FastCollinearPoints | FastCollinearPoints |  | 排序 | java |
+| Coursera | Board                | Board                                                        |  | A*算法,搜索 | java |
+| Coursera | Solver | Solver |  | A*算法,搜索 | java |
+| Coursera | KdTree | KdTree |  | 搜索 | java |
+| Coursera | PointSET | PointSET |  | 搜索 | java |
+| Coursera | BurrowsWheeler | BurrowsWheeler | 哈夫曼压树 | 压缩 | java |
+| Coursera | MoveToFront | MoveToFront | 哈夫曼压树 | 压缩 | java |
+| Coursera | CircularSuffixArray | CircularSuffixArray | 哈夫曼压树 | 压缩 | java |
+| Coursera | Outcast | Outcast | 图 | 最近公共祖先 | java |
+| Coursera | SAP | SAP | 图 | 最近公共祖先 | java |
+| Coursera | WordNet | WordNet | 图 | 最近公共祖先 | java |
+| Coursera | SeamCarver | SeamCarver |  | 动态规划 | java |
+| Coursera | BaseballElimination | BaseballElimination |  | 网络流,最大流 | java |
+| Coursera | BoggleSolver | BoggleSolver | 字典树,前缀树 | 搜索 | java |
+| Coursera | Trie | Trie | 字典树,前缀树 | 搜索 | java |
+| Coursera | TrieNode | TrieTrieNode | 字典树,前缀树 | 搜索 | java |
+
