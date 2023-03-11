@@ -32,10 +32,10 @@ Use search to find what you want to see. Recommended to use https://record.jxtxz
 + 洛谷: 2
 + Coursera: 70
 
-目前已整理代码 552 题 (with code and tags)
+目前已整理代码 553 题 (with code and tags)
 
 + 175 题使用 C/C++ 编写 (solved with C/C++)
-+ 319 题使用 Java 编写 (solved with Java)
++ 320 题使用 Java 编写 (solved with Java)
 + 29 题使用 Kotlin 编写 (solved with Kotlin) 
 + 3 题使用 Python 编写 (solved with Python) 
 + 5 题使用 Javascript 编写 (solved with Javascript) 
